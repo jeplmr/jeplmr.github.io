@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://jeplmr.com/eleventy-base-blog/posts/first/</loc>
+    <lastmod>2020-11-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeplmr.com/eleventy-base-blog/about/</loc>
+    <lastmod>2020-11-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeplmr.com/eleventy-base-blog/posts/</loc>
+    <lastmod>2020-11-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeplmr.com/eleventy-base-blog/</loc>
+    <lastmod>2020-11-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeplmr.com/eleventy-base-blog/page-list/</loc>
+    <lastmod>2020-11-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeplmr.com/eleventy-base-blog/tags/</loc>
+    <lastmod>2020-11-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeplmr.com/eleventy-base-blog/tags/first/</loc>
+    <lastmod>2020-11-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeplmr.com/eleventy-base-blog/tags/blog/</loc>
+    <lastmod>2020-11-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeplmr.com/eleventy-base-blog/tags/CI/</loc>
+    <lastmod>2020-11-24</lastmod>
+  </url>
+</urlset>
