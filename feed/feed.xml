@@ -3,7 +3,7 @@
 	<title>Justin Palmer</title>
 	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
 	
-	<link href="https://jeplmr.com/jeplmr.com/feed/feed.xml" rel="self"/>
+	<link href="https://jeplmr.com/feed/feed.xml" rel="self"/>
 	<link href="https://jeplmr.com"/>
 	<updated>2020-11-24T00:00:00+00:00</updated>
 	<id>https://example.com/</id>
@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>Pardon the dust...</title>
-		<link href="https://jeplmr.com/jeplmr.com/posts/first/"/>
+		<link href="https://jeplmr.com/posts/first/"/>
 		<updated>2020-11-24T00:00:00+00:00</updated>
-		<id>https://jeplmr.com/jeplmr.com/posts/first/</id>
+		<id>https://jeplmr.com/posts/first/</id>
 		<content type="html">&lt;p&gt;You&#39;ll have to forgive me, I decided to rework my portfolio/blog from scratch. I was running static HTML/CSS on an Amazon S3 bucket, and finally decided it was high time to do things &amp;quot;the right way&amp;quot;. This site utilizes 11ty as a statc content generator, and I&#39;m using GitHub and TravisCI for version control, hosting, and CI/CD.&lt;/p&gt;
 &lt;p&gt;I probably should have learned how to properly use all these tools first before taking my old portfolio down.&lt;/p&gt;
 &lt;p&gt;Oops.&lt;/p&gt;

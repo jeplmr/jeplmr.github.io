@@ -9,8 +9,8 @@
     "url": "https://jeplmr.com/about-me/"
   },
   "items": [{
-      "id": "https://jeplmr.com/jeplmr.com/posts/first/",
-      "url": "https://jeplmr.com/jeplmr.com/posts/first/",
+      "id": "https://jeplmr.com/posts/first/",
+      "url": "https://jeplmr.com/posts/first/",
       "title": "Pardon the dust...",
       "content_html": "<p>You'll have to forgive me, I decided to rework my portfolio/blog from scratch. I was running static HTML/CSS on an Amazon S3 bucket, and finally decided it was high time to do things &quot;the right way&quot;. This site utilizes 11ty as a statc content generator, and I'm using GitHub and TravisCI for version control, hosting, and CI/CD.</p>\n<p>I probably should have learned how to properly use all these tools first before taking my old portfolio down.</p>\n<p>Oops.</p>\n",
       "date_published": "2020-11-24T00:00:00+00:00"
