@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jeplmr.com/eleventy-base-blog/posts/first/</loc>
+    <loc>https://jeplmr.com/jeplmr.com/posts/first/</loc>
     <lastmod>2020-11-24</lastmod>
   </url>
   
   <url>
-    <loc>https://jeplmr.com/eleventy-base-blog/about/</loc>
+    <loc>https://jeplmr.com/jeplmr.com/about/</loc>
     <lastmod>2020-11-24</lastmod>
   </url>
   
   <url>
-    <loc>https://jeplmr.com/eleventy-base-blog/</loc>
+    <loc>https://jeplmr.com/jeplmr.com/</loc>
     <lastmod>2020-11-24</lastmod>
   </url>
   
   <url>
-    <loc>https://jeplmr.com/eleventy-base-blog/page-list/</loc>
+    <loc>https://jeplmr.com/jeplmr.com/page-list/</loc>
     <lastmod>2020-11-24</lastmod>
   </url>
   
   <url>
-    <loc>https://jeplmr.com/eleventy-base-blog/tags/</loc>
+    <loc>https://jeplmr.com/jeplmr.com/tags/</loc>
     <lastmod>2020-11-24</lastmod>
   </url>
   
   <url>
-    <loc>https://jeplmr.com/eleventy-base-blog/tags/first/</loc>
+    <loc>https://jeplmr.com/jeplmr.com/tags/first/</loc>
     <lastmod>2020-11-24</lastmod>
   </url>
   
   <url>
-    <loc>https://jeplmr.com/eleventy-base-blog/tags/blog/</loc>
+    <loc>https://jeplmr.com/jeplmr.com/tags/blog/</loc>
     <lastmod>2020-11-24</lastmod>
   </url>
   
   <url>
-    <loc>https://jeplmr.com/eleventy-base-blog/tags/CI/</loc>
+    <loc>https://jeplmr.com/jeplmr.com/tags/CI/</loc>
     <lastmod>2020-11-24</lastmod>
   </url>
 </urlset>
