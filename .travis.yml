@@ -7,7 +7,6 @@ script: eleventy --pathprefix="/"
 deploy:
   local-dir: _site
   provider: pages
-  github_url: jeplmr.com
   skip-cleanup: true
   github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure
   keep-history: true
