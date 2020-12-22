@@ -15,8 +15,9 @@
 }
 html,
 body {
-  padding: 0;
-  margin: 0;
+  padding-left: 20%;
+  padding-right: 20%;
+  margin: auto;
   font-family: system-ui, sans-serif;
   color:var(--gray);
   background-color:var(--darkgray);
