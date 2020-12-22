@@ -5,12 +5,22 @@
 	
 	<link href="https://jeplmr.com/feed/feed.xml" rel="self"/>
 	<link href="https://jeplmr.com"/>
-	<updated>2020-11-24T00:00:00+00:00</updated>
+	<updated>2020-12-22T00:00:00+00:00</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Justin Palmer</name>
 		<email>jeplmr@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Update time!</title>
+		<link href="https://jeplmr.com/posts/second/"/>
+		<updated>2020-12-22T00:00:00+00:00</updated>
+		<id>https://jeplmr.com/posts/second/</id>
+		<content type="html">&lt;p&gt;Oh, how time flies when you&#39;re having fun. I haven&#39;t updated this place in about a month! Time to fix that.&lt;/p&gt;
+&lt;p&gt;More soon!&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Pardon the dust...</title>

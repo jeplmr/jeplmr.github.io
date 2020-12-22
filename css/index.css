@@ -7,6 +7,8 @@
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
+  --orange: #FF8000; 
+  --darkorange: #B35900;
 }
 * {
   box-sizing: border-box;
@@ -16,8 +18,13 @@ body {
   padding: 0;
   margin: 0;
   font-family: system-ui, sans-serif;
-  color: #2a9d8f;
-  background-color: #264653;
+  color:var(--gray);
+  background-color:var(--darkgray);
+}
+
+html{
+  background-image: url("/img/website_bg.jpg");
+  background-size: 10%;
 }
 p:last-child {
   margin-bottom: 0;
@@ -32,10 +39,10 @@ p,
   line-height: 1.45;
 }
 a[href] {
-  color: #e9c46a; 
+  color: var(--orange);
 }
 a[href]:visited {
-  color: #f4a261; 
+  color: var(--darkorange);
 }
 main {
   padding: 1rem;
@@ -162,7 +169,7 @@ pre {
 .postlist-date,
 .postlist-item:before {
   font-size: 0.8125em; /* 13px /16 */
-  color: var(--darkgray);
+  color: var(--gray);
 }
 .postlist-date {
   word-spacing: -0.5px;
