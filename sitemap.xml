@@ -12,6 +12,11 @@
   </url>
   
   <url>
+    <loc>https://jeplmr.com/posts/twh/</loc>
+    <lastmod>2020-12-22</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jeplmr.com/about/</loc>
     <lastmod>2020-12-22</lastmod>
   </url>
@@ -23,6 +28,11 @@
   
   <url>
     <loc>https://jeplmr.com/page-list/</loc>
+    <lastmod>2020-12-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeplmr.com/posts/mend/</loc>
     <lastmod>2020-12-22</lastmod>
   </url>
   
@@ -44,5 +54,20 @@
   <url>
     <loc>https://jeplmr.com/tags/CI/</loc>
     <lastmod>2020-12-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeplmr.com/tags/Portfolio/</loc>
+    <lastmod>2020-12-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeplmr.com/tags/Game%20Jam/</loc>
+    <lastmod>2020-12-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeplmr.com/posts/mach/</loc>
+    <lastmod>2020-12-23</lastmod>
   </url>
 </urlset>

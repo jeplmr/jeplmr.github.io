@@ -5,12 +5,49 @@
 	
 	<link href="https://jeplmr.com/feed/feed.xml" rel="self"/>
 	<link href="https://jeplmr.com"/>
-	<updated>2020-12-22T00:00:00+00:00</updated>
+	<updated>2020-12-23T00:00:00+00:00</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Justin Palmer</name>
 		<email>jeplmr@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Modern Art Critic Hero</title>
+		<link href="https://jeplmr.com/posts/mach/"/>
+		<updated>2020-12-23T00:00:00+00:00</updated>
+		<id>https://jeplmr.com/posts/mach/</id>
+		<content type="html">&lt;p&gt;
+&lt;a href=&quot;https://jeplmr.itch.io/modern-art-critic-hero&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;https://jeplmr.com/img/MACH.png&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&quot;https://jeplmr.itch.io/modern-art-critic-hero&quot; target=&quot;blank&quot;&gt;Modern Art Critic Hero&lt;/a&gt; is a microgame based on the theme &#39;Combine Two Incompatible Genres&#39;. Play as &lt;i&gt;The Critic&lt;/i&gt; on their personal journey to critique as much modern art as they can. Explore the museum and contemplate life, existence, and the exhibits.&lt;/p&gt;
+&lt;p&gt;
+Modern Art Critic Hero won &lt;a href=&quot;https://ldjam.com/events/ludum-dare/41/modern-art-critic-hero&quot; target=&quot;blank&quot;&gt;4th place for Humor&lt;/a&gt; in Ludum Dare 41. 
+&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://jeplmr.com/posts/mend/"/>
+		<updated>2020-12-22T09:52:56+00:00</updated>
+		<id>https://jeplmr.com/posts/mend/</id>
+		<content type="html"></content>
+	</entry>
+	
+	<entry>
+		<title>The Witching Hour</title>
+		<link href="https://jeplmr.com/posts/twh/"/>
+		<updated>2020-12-22T00:00:00+00:00</updated>
+		<id>https://jeplmr.com/posts/twh/</id>
+		<content type="html">&lt;p&gt;
+&lt;a href=&quot;https://memphis-game-developers.itch.io/the-witching-hour&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;https://jeplmr.com/img/whss.jpg&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&quot;https://memphis-game-developers.itch.io/the-witching-hour&quot; target=&quot;blank&quot;&gt;The Witching Hour&lt;/a&gt; is a horror microgame created in 48 hours at Global Game Jam 2018. The jam theme was Transmission. The player must keep possessed appliances quiet, or suffer the wrath of an evil spirit that haunts the house.
+
+&lt;/p&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>Update time!</title>
