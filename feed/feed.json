@@ -3,7 +3,7 @@
   "title": "Justin Palmer",
   "home_page_url": "https://jeplmr.com",
   "feed_url": "https://example.com/feed/feed.json",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Justin Palmer - Portfolio and Blog for all things Game Dev and Level Design. Valve, plz dont sue me for using the Hammer logo as my favicon.",
   "author": {
     "name": "Justin Palmer",
     "url": "https://jeplmr.com/about-me/"
@@ -13,6 +13,12 @@
       "url": "https://jeplmr.com/posts/mach/",
       "title": "Modern Art Critic Hero",
       "content_html": "<p>\n<a href=\"https://jeplmr.itch.io/modern-art-critic-hero\" target=\"blank\"><img src=\"/img/MACH.png\"></a>\n</p>\n<p>\n<a href=\"https://jeplmr.itch.io/modern-art-critic-hero\" target=\"blank\">Modern Art Critic Hero</a> is a microgame based on the theme 'Combine Two Incompatible Genres'. Play as <i>The Critic</i> on their personal journey to critique as much modern art as they can. Explore the museum and contemplate life, existence, and the exhibits.</p>\n<p>\nModern Art Critic Hero won <a href=\"https://ldjam.com/events/ludum-dare/41/modern-art-critic-hero\" target=\"blank\">4th place for Humor</a> in Ludum Dare 41. \n</P>",
+      "date_published": "2020-12-23T00:00:00+00:00"
+    },{
+      "id": "https://jeplmr.com/posts/leveldesign/",
+      "url": "https://jeplmr.com/posts/leveldesign/",
+      "title": "Ramblings on Level Design.",
+      "content_html": "<p>This might be a bit of a long post.</p>\n<p>I think I got my first &quot;look behind the curtain&quot; was with <i>Return to Castle Wolfenstein</i>. I remember when my brother bought the game at a local Walmart. I think it may have been a &quot;Game of the Year&quot; edition or something, because I vaguely remember the box came with a bunch of extras. Most notably, a developer highlight reel (After some quick Googling, I found the reel <a href=\"https://youtu.be/BC_KoTZbRQA\" target=\"blank\">here</a>). I guess that must have been around 2002. So. I was well under the &quot;M 17+&quot; age rating of the game.</p>\n<p>Fast forward a couple years, and a small indie game called <i>Half-Life 2</i> comes out in 2004. You've probably never heard of it. Anyway, my brother and I both were looking forward to this one as we were both fans of the first game.</p>\n",
       "date_published": "2020-12-23T00:00:00+00:00"
     },{
       "id": "https://jeplmr.com/posts/twh/",

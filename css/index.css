@@ -17,6 +17,7 @@ html,
 body {
   padding-left: 5%;
   padding-right: 5%;
+  padding-top: 1%;
   margin: auto;
   font-family: system-ui, sans-serif;
   color:var(--gray);
@@ -25,7 +26,8 @@ body {
 
 html{
   background-image: url("/img/website_bg.jpg");
-  background-size: 10%;
+  background-size: 25%;
+   
 }
 p:last-child {
   margin-bottom: 0;
@@ -34,6 +36,8 @@ p,
 .tmpl-post li,
 img {
   max-width: 37.5em; /* 600px /16 */
+  max-width: 100%;
+  height: auto;
 }
 p,
 .tmpl-post li {
