@@ -17,10 +17,11 @@ I think it was playing Garry's Mod that it hit me that a lot of the content was 
 
 Holy shit, I had no idea what I was doing. But then again, I don't think the majority of the other mappers on the forums did, either. But I trudged on. gm_catacombs, gm_blockfort, gm_zombiesurvivl, rp_varrock. I know I made more maps, but I can't remember for the life of me what I called them. 
 
-<img href="/img/catacombs.jpg">
-<img href="/img/zs1.jpg">
-<img href="/img/mall.jpg">
-<img href="/img/combinemod.jpg">
+<img src="/img/catacombs.jpg">
+<img src="/img/zs1.jpg">
+<img src="/img/mall.jpg">
+<img src="/img/combinemod.jpg">
+<img src="/img/blockfort.jpg">
 
 
 I had a blast making these maps, and I met a bunch of really cool people playing gmod back in the day. But there was a problem with all those levels I made. They had no gameplay (except maybe gm_zombiedurvival, but it wasn't that great). Yeah, each level had a defined location and theme. But there wasn't anything fun or interesting going on inside the levels. Looking back at it, I think the heart of that problem was the platform I was making maps for. A lot of gmod users would simply load up a cool <i>looking</i> map for the scenery, and not the gameplay (if you've ever played Garry's Mod, this will make sense to you. If not, gmod was kind of this aimless, sandbox mod). Because of this, I would focus too early on making my levels look good and interesting, instead of actually fun to play. TL;DR, I focused on how to make a wall instead of where to make a wall. I can elaborate on this a bit, but my mapping hobby eventually fizzed out in the late naughties (with a brief reemergence in 2011)
