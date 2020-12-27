@@ -41,7 +41,7 @@ participated in a bunch of game jams with the group, and quickly learned the bas
 
 <p style="text-align: center"><i>A simple vista featuring lighting from police sirens and placeholder art.</i><br><img src="/img/kfsf_police.gif" class="center"></p>
 
-<p style="text-align: center"><i>A shot of a city street, featuring one of our <i>oh so</i> punchable NPCs.</i><br><img src="/img/kfsf_street.png" class="center"></p>
+<p style="text-align: center"><i>A shot of a city street, featuring a very punchable NPCs.</i><br><img src="/img/kfsf_street.png" class="center"></p>
 
 <p style="text-align: center"><i>"The Subway Level", of course, featured a ride on a subway train. I put together this simple illusion where the tunnel moves past a fixed train car.</i><br>
 <iframe width="800" height="600" src="https://www.youtube.com/embed/M-fQaoTNNPk" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
