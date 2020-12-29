@@ -1,7 +1,7 @@
 ---
 title: Ramblings on Level Design, Part 1
 description: An analysis of my time doing level design. 
-date: 2020-12-27
+date: 2020-12-29
 tags:
   - blog
   - Level Design
@@ -28,12 +28,9 @@ layout: layouts/post.njk
 <p style="text-indent: 2em">The year is 2015. Corona is only just a beer. I recently graduated college with a "real" degree and landed a "real" nine-to-five job. I had also dropped any kind of game dev or level design as a hobby. And I was honestly pretty miserable. A friend of mine, Jonathan Schrack, introduced me to a local Unity usergroup in town. This definitely rekindled that spark. I started showing up to meetups, I learned the basics of the Unity engine, I learned how to script gameplay with C#, and I participated in <i>a lot</i> of game jams. One of my games even won <a href="https://ldjam.com/events/ludum-dare/41/modern-art-critic-hero" target="blank">4th place for Humor</a> in Ludum Dare 41!
 
 
-<p style="text-indent: 2em">Jonathan eventually brought me onto a small team working on a VR beat-em-up called <i>Kung Fu: Shadow Fist</i>. Think <i>Streets of Rage</i>, but in VR. My job was to design levels for the game (shocking, I know). The mechanics of KFSF were pretty simple; You could teleport to predetermined locations to navigate through the world, throw punches with the motion controllers, and use a charged ability called Shadow Strike, which would slow down time and cause your punches to do extra damage. The vertical slice was pretty great, considering the dev team was a scrappy bunch of three part-time developers.</p>
+<p style="text-indent: 2em">One year later, Jonathan brought me onto a small team working on a VR beat-em-up called <i>Kung Fu: Shadow Fist</i>. Think <i>Streets of Rage</i>, but in VR. My job was to design levels for the game (shocking, I know). The mechanics of KFSF were pretty simple; You could teleport to predetermined locations to navigate through the world, throw punches with the motion controllers, and use a charged ability called Shadow Strike, which would slow down time and cause your punches to do extra damage. The vertical slice was pretty great, considering the dev team was a scrappy bunch of three part-time developers.</p>
 
-<p style="text-indent: 2em">Adapting the level design from classic beat-em-ups was pretty challenging. The levels in those early games was linear, usually forcing the player to move left-to-right across the screen. This shifted my focus to creating memorable events in each level instead of creating more elaborate designs. For example, "The Subway Level" didn't take place just in a subway. The player started the city streets, beating up gang members until they arrived at a bar. Inside the bar were more thugs. Taking them out rewarded the player with a bathroom gag, in which a lone bonehead would exit the restroom in an amazing display of 'wrong place, wrong time'. After the bar, the player would finally make their way to the subway, and eventually board a train. This resulted in a climactic battle between the player and the rival gang while the train was en route to its destination.</p>
-
-<p style="text-indent: 2em">The main problem with <i>Kung Fu's</i> level design was that the vertical slice level was just a series of corridors. Yeah, it may have looked like city streets, but beneath that thin vaneer was, effectively, an increibly linear hallway. The player literally could not progress or explore if they didn't follow a strict sequence of scripted events. And because this was a vertical slice, some events were still a touch buggy. Meaning the player could inadvertantly break something, and then get soft-locked where they stood. Pretty gross.  
-
+<p style="text-indent: 2em">Adapting the level design of those classic beat-em-ups ended up being pretty challenging. The levels in those games were linear, usually forcing the player to move left-to-right across the screen. This shifted my focus to creating memorable events in each level instead of creating more elaborate, open designs. For example, "The Subway Level" didn't take place <i>just</i> in a subway. The player started the city streets, beating up gang members until they arrived at a bar. Inside the bar were more thugs. Taking them out rewarded the player with a bathroom gag, in which one lone bonehead would exit the restroom in a, hopefully, amusing display of Vincent-Vega-style timing. After the bar, the player would finally make their way to the subway, and eventually board a train. This resulted in a climactic battle between the player and the rival gan, all while the train was en route to its destination.</p>
 
 <p style="text-align: center"><i>An early blockout of "The Subway Level" featured in <i>Kung Fu: Shadow Fist's vertical slice.</i><br><img src="/img/kfsf.jpg" class="center"></i></p>
 
@@ -41,22 +38,25 @@ layout: layouts/post.njk
 
 <p style="text-align: center"><i>A simple vista featuring lighting from police sirens and placeholder art.</i><br><img src="/img/kfsf_police.gif" class="center"></p>
 
-<p style="text-align: center"><i>A shot of a city street, featuring a very punchable NPCs.</i><br><img src="/img/kfsf_street.png" class="center"></p>
+<p style="text-align: center"><i>A shot of a city street, featuring an extremely punchable NPC. Now that's a face only a mother could love.</i><br><img src="/img/kfsf_street.png" class="center"></p>
 
 <p style="text-align: center"><i>"The Subway Level", of course, featured a ride on a subway train. I put together this simple illusion where the tunnel moves past a fixed train car.</i><br>
 <iframe width="800" height="600" src="https://www.youtube.com/embed/M-fQaoTNNPk" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<p style="text-indent: 2em">In my mind, every single level I've shown you so far have had the same core problem: I focused on environment art too much. Or maybe too early. My concern for the visuals recieved far more attention than the thought, intention, and arrangement of the gameplay space. Earlier this year I was fighting with a level I was working on. Really, I was banging my head against a wall. Everything I was trying with the level felt.. off, somehow. When I finally took a break, I grabbed my copy of <i>101 Things I Learned in Architecture School</i> for some pointers (While the book is aimed at Architects, I find it incredibly useful for level design). A page pretty much jumped right out of the book and slapped me right in the face:
+<p style="text-indent: 2em">Making this level for KFSF was really fun. But there was something about the level I just couldn't get into. I never really found an identity for it. A feel. I never got into a flow state while working on it. And I think it shows. While I'm really proud of the various events I put together in the level, the space itself feels very.. uninspired. It's basically a long hallway that extends from the city streets to the end of the train station. There are no branching paths, the player isn't presented with interesting choices, and the gameplay gets repetitive very quickly. Don't get me wrong, I don't think the level was that bad. But it certainly wasn't that good, either. I will say that it was a competent vertical slice demo, and looking back at it, I'm proud as hell at what I helped build.<p>
+
+<p style="text-indent: 2em">Do you ever find yourself reading something and it reaches out and slaps you across the face? Well, I did. I was reading through <i>101 Things I learned in Architecture School</i> at the recommendation of, well, a whole bunch of people. And this page stuck with me:</p>
 
 <p style="background-color: #000000; font-family: serif">
-"<b>Architecture begins with an idea.</b>
-Good design solutions are not merely physically interesting but are driven by underlying ideas. An idea is a specific mental structre by which we organize, understand, and give meaning to external experiences and information. Without underlying ideas informing their buildings, architects are merely space planners. Space planning with decoration applied to 'dress it up' is not architecture; architecture resides in the DNA of a building, in an embedded sensibility that infuses its whole."
+<b>Architecture begins with an idea.</b><br><br>
+Good design solutions are not merely physically interesting but are driven by underlying ideas. An idea is a specific mental structre by which we organize, understand, and give meaning to external experiences and information. Without underlying ideas informing their buildings, architects are merely space planners. Space planning with decoration applied to 'dress it up' is not architecture; architecture resides in the DNA of a building, in an embedded sensibility that infuses its whole.
 <br><br>
 101 Things I learned in Architecture School<br>Matthew Frederick</p>
 
-<p>And there it was, plain as day. Everything I had been doing wrong since I first picked up Hammer.</p>
+<p style="text-indent: 2em">This one page managed to sum up a bunch of things I was unknowingly doing wrong. I would too quickly jump into making my levels look like the places I wanted them to be, instead of focusing on building out my gameplay spaces to take advantage of a game's mechanics. I want to say I picked this up in my Garry's Mod days. Because that mod was so aimless and sandboxy, there were no gameplay mechanics to undertsand, no goals to reach. Which isn't a bad thing, it's just a nature-of-the-beast thing when it comes to gmod. Because I was always so focused on <i>how</i> I was building a wall, I never practiced building focused gameplay spaces; i.e., should the wall even be there in the first place.</p>
 
-<img src="/img/scottpilgrim.gif">
+<p style="text-align: center"><img src="/img/scottpilgrim.gif"></p>
+
+<p><i>In part 2, I'll talk about what I'm working on currently, and how I've been working to improve my level design skills in the last couple years.</i></p>
 
 <p><i>To be continued...</i></p>
-
