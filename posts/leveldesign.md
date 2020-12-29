@@ -53,7 +53,7 @@ Good design solutions are not merely physically interesting but are driven by un
 <br><br>
 101 Things I learned in Architecture School<br>Matthew Frederick</p>
 
-<p style="text-indent: 2em">This one page managed to sum up a bunch of things I was unknowingly doing wrong. I would too quickly jump into making my levels look like the places I wanted them to be, instead of focusing on building my gameplay spaces to take advantage of a game's mechanics. I want to say I picked this habit up in my Garry's Mod days. Because that mod was so aimless and sandboxy, there were no gameplay mechanics to undertsand, no goals to reach. Which isn't a bad thing, it's just a nature-of-the-beast thing when it comes to gmod. Because I was always so focused on <i>how</i> I was building a wall, I never practiced building focused gameplay spaces; i.e., I never thought about should the wall even be there in the first place.</p>
+<p style="text-indent: 2em">This one page managed to sum up a bunch of things I was unknowingly doing wrong. I would too quickly jump into making my levels look like the places I wanted them to be, instead of building gameplay spaces that take advantage of a game's mechanics. I want to say I picked this habit up in my Garry's Mod days. Because that mod was so aimless and sandboxy, there were no gameplay mechanics to undertsand, no goals to reach. Which isn't a bad thing, it's just a nature-of-the-beast thing when it comes to gmod. Because I was always so focused on <i>how</i> I built a wall, I never practiced building focused gameplay spaces; i.e., I never thought about if the wall should even be there in the first place.</p>
 
 <p style="text-align: center"><img src="/img/scottpilgrim.gif"></p>
 
