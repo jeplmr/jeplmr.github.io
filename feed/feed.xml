@@ -17,9 +17,19 @@
 		<link href="https://jeplmr.com/posts/mend/"/>
 		<updated>2021-01-19T00:00:00+00:00</updated>
 		<id>https://jeplmr.com/posts/mend/</id>
-		<content type="html">&lt;p&gt;Mend is an asymmetric coop game where virtual reality and flatscreen gameplay coalesce. Two players must work together to solve puzzles and explore the world. I built the vertical slice of Mend for Oculus Launch Pad. The project even went on to win the &lt;a href=&quot;https://www.oculus.com/blog/introducing-the-2019-oculus-launch-pad-scholarship-recipients-plus-2020-applications-now-open/?locale=en_US&quot; target=&quot;blank&quot;&gt;2019 Launch Pad Scholarship&lt;/a&gt;!&lt;/p&gt;
+		<content type="html">&lt;p&gt;Mend is an asymmetric coop game where virtual reality and flatscreen gameplay coalesce. Two players must work together to solve puzzles and explore the world. I built the vertical slice of Mend for Oculus Launch Pad. The project even went on to win the &lt;a href=&quot;https://www.oculus.com/blog/introducing-the-2019-oculus-launch-pad-scholarship-recipients-plus-2020-applications-now-open/&quot; target=&quot;blank&quot;&gt;2019 Launch Pad Scholarship&lt;/a&gt;!&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;
 &lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/watch?v=CKeRf5Wvzjg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Environment Study</title>
+		<link href="https://jeplmr.com/posts/environmentstudy/"/>
+		<updated>2021-01-19T00:00:00+00:00</updated>
+		<id>https://jeplmr.com/posts/environmentstudy/</id>
+		<content type="html">&lt;p&gt;Late in December 2018, my local Unity meetup hosted a month-long environment study challenge. The rules were simple: recreate a scene from any photo. &lt;a href=&quot;https://docs.google.com/presentation/d/1t72S2quB0F73HnqWhIXWOFzrJ5RDRX9qGtP3_yET5P8/edit?usp=sharing&quot; target=&quot;blank&quot;&gt;I detail my process here in these slides&lt;/a&gt;, but the basic idea is that I took the specifications from the physical camera used to take the reference photo and applied them to the camera settings in Unity. Once I had that, I overlaid the reference photo on top of my scene in Unity and started rebuilding everything from scratch. Please excuse some of the messy geometry in the scene, I was still learning Blender at the time.&lt;/p&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://docs.google.com/presentation/d/1t72S2quB0F73HnqWhIXWOFzrJ5RDRX9qGtP3_yET5P8/edit?usp=sharing&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
 	</entry>
 	
 	<entry>
