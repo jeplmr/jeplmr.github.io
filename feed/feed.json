@@ -9,6 +9,12 @@
     "url": "https://jeplmr.com/about-me/"
   },
   "items": [{
+      "id": "https://jeplmr.com/posts/mend/",
+      "url": "https://jeplmr.com/posts/mend/",
+      "title": "Mend - Oculus Launch Pad 2019",
+      "content_html": "<p>Mend is an asymmetric coop game where virtual reality and flatscreen gameplay coalesce. Two players must work together to solve puzzles and explore the world. I built the vertical slice of Mend for Oculus Launch Pad. The project even went on to win the <a href=\"https://www.oculus.com/blog/introducing-the-2019-oculus-launch-pad-scholarship-recipients-plus-2020-applications-now-open/?locale=en_US\" target=\"blank\">2019 Launch Pad Scholarship</a>!</p>\n<div class=\"container\">\n<p style=\"text-align: center\"><iframe width=\"800\" height=\"600\" src=\"https://www.youtube.com/watch?v=CKeRf5Wvzjg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen class=\"video\"></iframe></p></div>",
+      "date_published": "2021-01-19T00:00:00+00:00"
+    },{
       "id": "https://jeplmr.com/posts/leveldesign/",
       "url": "https://jeplmr.com/posts/leveldesign/",
       "title": "Ramblings on Level Design, Part 1",

@@ -5,12 +5,22 @@
 	
 	<link href="https://jeplmr.com/feed/feed.xml" rel="self"/>
 	<link href="https://jeplmr.com"/>
-	<updated>2020-12-29T00:00:00+00:00</updated>
+	<updated>2021-01-19T00:00:00+00:00</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Justin Palmer</name>
 		<email>jeplmr@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Mend - Oculus Launch Pad 2019</title>
+		<link href="https://jeplmr.com/posts/mend/"/>
+		<updated>2021-01-19T00:00:00+00:00</updated>
+		<id>https://jeplmr.com/posts/mend/</id>
+		<content type="html">&lt;p&gt;Mend is an asymmetric coop game where virtual reality and flatscreen gameplay coalesce. Two players must work together to solve puzzles and explore the world. I built the vertical slice of Mend for Oculus Launch Pad. The project even went on to win the &lt;a href=&quot;https://www.oculus.com/blog/introducing-the-2019-oculus-launch-pad-scholarship-recipients-plus-2020-applications-now-open/?locale=en_US&quot; target=&quot;blank&quot;&gt;2019 Launch Pad Scholarship&lt;/a&gt;!&lt;/p&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/watch?v=CKeRf5Wvzjg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>Ramblings on Level Design, Part 1</title>
