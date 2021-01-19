@@ -4,6 +4,8 @@ description: This was a lot of fun
 date: 2021-01-19
 tags:
   - Portfolio
+  - Unity
+  - AR/VR
   - posts
 layout: layouts/post.njk
 ---

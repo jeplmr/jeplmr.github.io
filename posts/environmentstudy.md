@@ -4,6 +4,8 @@ description: Photo to Unity Workflow Experiment
 date: 2021-01-19
 tags:
   - Portfolio
+  - Unity
+  - Blender
   - posts
 layout: layouts/post.njk
 ---
