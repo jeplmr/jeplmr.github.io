@@ -9,6 +9,18 @@
     "url": "https://jeplmr.com/about-me/"
   },
   "items": [{
+      "id": "https://jeplmr.com/posts/retroride/",
+      "url": "https://jeplmr.com/posts/retroride/",
+      "title": "Retro Ride",
+      "content_html": "<p>Another Mapcore challenge. In August 2019, I couldn't pass up their 'Retro Ride' challenge. The rules were simple: Recreate the Ecto-1, the DeLorean time machine, or Jurassic Park Jeep. Oh, and it needs to be less than 500 tris and use a single 128*128 texture map. I adore all three of those vehicles, so I kitbashed them all together in a way I thought was fitting.</p>\n<div class=\"sketchfab-embed-wrapper\">\n    <iframe title=\"A 3D model\" width=\"1024\" height=\"768\" src=\"https://sketchfab.com/models/873d009b36a84b06a5e2612c8ecafa9d/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1\" frameborder=\"0\" allow=\"autoplay; fullscreen; vr\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>\n    <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\">\n        <a href=\"https://sketchfab.com/3d-models/delorean-873d009b36a84b06a5e2612c8ecafa9d?utm_medium=embed&utm_source=website&utm_campaign=share-popup\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">DeLorean</a>\n        by <a href=\"https://sketchfab.com/jeplmr?utm_medium=embed&utm_source=website&utm_campaign=share-popup\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">jeplmr</a>\n        on <a href=\"https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a>\n    </p>\n</div>\n<p>Do me favor and don't look under the car. Or behind it.</br></br>;)</p>",
+      "date_published": "2021-01-19T00:00:00+00:00"
+    },{
+      "id": "https://jeplmr.com/posts/nostalgiclevelup/",
+      "url": "https://jeplmr.com/posts/nostalgiclevelup/",
+      "title": "Nostalgic Level Up - Super Mario Bros. World 1-1",
+      "content_html": "<p>I like to participate in Mapcore's monthly challenges whenever I get the chance. In July 2019, the challenge was to recreate a level from a video game. There was a choice of three maps, but only one stuck out to me. World 1-1 from Super Mario Bros. I took the whole month and recreated everything I could using Unity and Blender. I made all the textures, models, animations, programming. Everything from scratch. Except the music, that was done by the talented <a href=\"https://soundcloud.com/jonathan-marlin\" target=\"blank\">Jonathan Marlin</a>.</p>\n<div class=\"container\">\n<p style=\"text-align: center\"><iframe width=\"800\" height=\"600\" src=\"https://www.youtube.com/watch?v=jVVU7xRXGv4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen class=\"video\"></iframe></p></div>",
+      "date_published": "2021-01-19T00:00:00+00:00"
+    },{
       "id": "https://jeplmr.com/posts/mend/",
       "url": "https://jeplmr.com/posts/mend/",
       "title": "Mend - Oculus Launch Pad 2019",
