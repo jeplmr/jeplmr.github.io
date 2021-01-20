@@ -1,5 +1,5 @@
 ---
-title: Retro Ride
+title: Retro Ride - Low Poly DeLorean
 description: Low poly, low res, no problem. 
 date: 2021-01-19
 tags:

@@ -225,17 +225,17 @@ pre {
   display: inline-block;
   vertical-align: text-top;
   text-transform: uppercase;
-  font-size: 0.625em; /* 10px /16 */
+  font-size: 0.75em; /* 10px /16 */
   padding: 2px 4px;
   margin-left: 0.8em; /* 8px /10 */
-  background-color: var(--red);
+  background-color: var(--darkred);
   color: var(--white);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
 }
 a[href].post-tag,
 a[href].post-tag:visited {
-  color: #fff;
+  color: var(--gray);
 }
 
 /* Warning */

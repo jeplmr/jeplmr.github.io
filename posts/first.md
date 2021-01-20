@@ -3,9 +3,8 @@ title: Pardon the dust...
 description: High availability is for chumps.
 date: 2020-11-24
 tags:
-  - first
   - blog
-  - CI
+  - CI/CD
   - posts
 layout: layouts/post.njk
 ---
