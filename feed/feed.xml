@@ -62,6 +62,17 @@
 	</entry>
 	
 	<entry>
+		<title>Funnels &amp; Fizzlers - Portal 2</title>
+		<link href="https://jeplmr.com/posts/funnelsandfizzlers/"/>
+		<updated>2021-01-19T00:00:00+00:00</updated>
+		<id>https://jeplmr.com/posts/funnelsandfizzlers/</id>
+		<content type="html">&lt;p&gt;I made Funnels &amp; Fizzlers way back in 2011 for the &lt;a href=&quot;https://theportalwiki.com/wiki/Summer_Mapping_Initiative&quot; target=&quot;blank&quot;&gt;Summer Mapping Initiative&lt;/a&gt;. At the time, I hadn&#39;t touched Hammer or Source in literally years. Unfortunately, I don&#39;t know what my final score was, but I was just happy to finish.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://jeplmr.com/files/sp_funnels_n_fizzlers.zip&quot; class=&quot;button&quot; download=&quot;&quot;&gt;Download Map&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;The exit, so close yet so far.&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/fnf_cube.jpg&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;Don&#39;t fall in the acid...?&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/fnf.jpg&quot;&gt;&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
 		<title>Environment Study - Memphis Game Developers</title>
 		<link href="https://jeplmr.com/posts/environmentstudy/"/>
 		<updated>2021-01-19T00:00:00+00:00</updated>
@@ -72,11 +83,23 @@
 	</entry>
 	
 	<entry>
+		<title>cs_gallery - Counter-Strike Global Offensive</title>
+		<link href="https://jeplmr.com/posts/cs_gallery/"/>
+		<updated>2021-01-19T00:00:00+00:00</updated>
+		<id>https://jeplmr.com/posts/cs_gallery/</id>
+		<content type="html">&lt;p&gt;I started working on the blockout of cs_gallery in early 2019. My goal was to create a small hostage rescue map similar to cs_office, but with the modern feel of cs_agency. I wanted to encourage player conflict in tight spaces. While I obviously didn&#39;t get past the blockout phase, I still enjoyed creating this layout and testing it with friends.&lt;/p&gt;
+&lt;p&gt;I have a love/hate relationship with cs_office. It&#39;s probably my most played Counter-Strike map, but I&#39;ve grown to really hate the choke points. Long Hall always turns into an AWP fight, and Paper is consistently a spam-fest. But damnit, the map has this charming quality I can&#39;t quite place.&lt;/p&gt;
+&lt;p&gt;The inspiration from cs_office should be clear. Gallery features two choke points: its own &quot;Long Hall&quot;, and a medium-sized choke point that bisects the gallery right across the middle. T&#39;s start on the north-side of the map and CT&#39;s start on the south-side. I had the large strokes in place. Initial testing indicated that the map was decently balanced at the time. If players on either side headed straight for a choke point, they would meet at the same time; roughly 12-13 seconds into a match. The blockout isn&#39;t without flaws, though. The T-side doesn&#39;t feel cohesive and suffers from the &quot;room-and-hall&quot; syndrome that plagues every budding level designer. Cover and sight lines still need work. I&#39;d love to take this map all the way to art pass one day.&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;Top-down view of cs_gallery blockout.&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/gallery.jpg&quot;&gt;&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
 		<title>Balloon Ride - Ludum Dare 47</title>
 		<link href="https://jeplmr.com/posts/balloon/"/>
 		<updated>2021-01-19T00:00:00+00:00</updated>
 		<id>https://jeplmr.com/posts/balloon/</id>
 		<content type="html">&lt;p&gt;Okay, I admit it. &lt;a href=&quot;https://jeplmr.itch.io/balloon-ride&quot; target=&quot;blank&quot;&gt;Balloon Ride&lt;/a&gt; is a Flappy Bird clone. But it&#39;s a &lt;i&gt;chill&lt;/i&gt; Flappy Bird clone. I made it as a case study of progression and simple, accessible game design. I&#39;ve always loved that Flappy Bird required only a single input from the player; a screen tap. I wanted to see what I could do with a similar constraint, but then layer on some difficulty ramp-up. Balloon Ride starts off as a simple game where you guide a hot air balloon through floating rings. As the player&#39;s score increases, they must pay more attention to obstacles, their balloon&#39;s fuel gauge, and trickier ring placement.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://jeplmr.com/files/BalloonRide.apk&quot; class=&quot;button&quot; download=&quot;&quot;&gt;Download .apk&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;
 &lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/dR6DuoMGNeA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
 	</entry>
