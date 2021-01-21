@@ -28,10 +28,9 @@
 		<updated>2021-01-19T00:00:00+00:00</updated>
 		<id>https://jeplmr.com/posts/swivelchairshooter/</id>
 		<content type="html">&lt;p&gt;Swivel Chair Shooter was a labor of love for me. I lost countless hours to the Zombies mode in Call of Duty: World at War. I don&#39;t know why I decided to do a remake with the Oculus Go, but all that play time probably had something to do with it.&lt;/p&gt;
-&lt;p&gt;Whenever I sit down to &quot;clone&quot; something, I usually to it as a case study, or to learn something specifc. In this case, it was both. I wanted to to analyse how the game&#39;s progression worked, how the power-ups tied into that, and how the economy aspect played into the whole thing. It was also the first time I messed with mobile VR and shader graph.&lt;/p&gt;
+&lt;p&gt;Whenever I sit down to &quot;clone&quot; something, I usually do so as a case study, or to learn something specifc. In this case, it was both. I wanted to to analyse how the game&#39;s progression worked, how the power-ups tied into that, and how the economy aspect played into the whole thing. It was also the first time I messed with mobile VR and shader graph.&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/jYY4kYakM2s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a href=&quot;https://jeplmr.itch.io/balloon-ride&quot; target=&quot;blank&quot;&gt;Balloon Ride&lt;/a&gt;&lt;/p&gt; </content>
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/jYY4kYakM2s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
 	</entry>
 	
 	<entry>
@@ -102,6 +101,16 @@
 &lt;p&gt;&lt;a href=&quot;https://jeplmr.com/files/BalloonRide.apk&quot; class=&quot;button&quot; download=&quot;&quot;&gt;Download .apk&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;
 &lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/dR6DuoMGNeA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Avarus - Ludum Dare 42</title>
+		<link href="https://jeplmr.com/posts/avarus/"/>
+		<updated>2021-01-19T00:00:00+00:00</updated>
+		<id>https://jeplmr.com/posts/avarus/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://memphis-game-developers.itch.io/avarus&quot; target=&quot;blank&quot;&gt;Avarus&lt;/a&gt; was created for Ludum Dare 42 around the theme &quot;running out of space&quot;. The goal of the game is to get the highest score possible by matching coins with their opposites. If there are no matches, you can exchange a coin for a handful of its matches at the expense of board space. When you run out of space, the game ends.&lt;/p&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/rOIGoMALv5k&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
 	</entry>
 	
 	<entry>
