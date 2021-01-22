@@ -182,13 +182,12 @@ Modern Art Critic Hero won &lt;a href=&quot;https://ldjam.com/events/ludum-dare/
 	</entry>
 	
 	<entry>
-		<title>Pardon the dust...</title>
+		<title>Aaand, we&#39;re live!</title>
 		<link href="https://jeplmr.com/posts/first/"/>
 		<updated>2020-11-24T00:00:00+00:00</updated>
 		<id>https://jeplmr.com/posts/first/</id>
-		<content type="html">&lt;p&gt;You&#39;ll have to forgive me, I decided to rework my portfolio/blog from scratch. I was running static HTML/CSS on an Amazon S3 bucket, and finally decided it was high time to do things &amp;quot;the right way&amp;quot;. This site utilizes 11ty as a statc content generator, and I&#39;m using GitHub and TravisCI for version control, hosting, and CI/CD.&lt;/p&gt;
+		<content type="html">&lt;p&gt;I decided to rework my portfolio/blog from scratch. I was running static HTML/CSS on an Amazon S3 bucket, and finally decided it was high time to do things &quot;the right way&quot;. This site utilizes 11ty as a statc content generator, and I&#39;m using GitHub and TravisCI for version control, hosting, and CI/CD. Oh, and Route53 for DNS.&lt;/p&gt;
 &lt;p&gt;I probably should have learned how to properly use all these tools first before taking my old portfolio down. Whoops! #MVP&lt;/p&gt;
-&lt;p&gt;Anyway, please excuse the dust around here. I haven&#39;t stretched my web design skills in a hot minute. I&#39;ve been laser focused on Unity Development and Level Design lately.&lt;/p&gt;
-</content>
+&lt;p&gt;Anyway, please excuse the dust around here. I haven&#39;t stretched my web design skills in a hot minute. I&#39;ve been laser focused on Unity Development and Level Design lately. My plan is to get all my content pushed up here, and then I&#39;ll do another pass on the visuals and layout. Until then, enjoy the blockout background!&lt;/p&gt;</content>
 	</entry>
 </feed>
