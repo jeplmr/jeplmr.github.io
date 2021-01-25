@@ -13,7 +13,7 @@
 	</author>
 	
 	<entry>
-		<title>Mend - Oculus Launch Pad</title>
+		<title>Oculus Launch Pad - Mend</title>
 		<link href="https://jeplmr.com/posts/mend/"/>
 		<updated>2021-01-20T00:00:00+00:00</updated>
 		<id>https://jeplmr.com/posts/mend/</id>
@@ -94,9 +94,9 @@
 	</entry>
 	
 	<entry>
-		<title>Balloon Ride - Ludum Dare 47</title>
+		<title>Ludum Dare 47 - Balloon Ride</title>
 		<link href="https://jeplmr.com/posts/balloon/"/>
-		<updated>2021-01-19T00:00:00+00:00</updated>
+		<updated>2021-01-18T00:00:00+00:00</updated>
 		<id>https://jeplmr.com/posts/balloon/</id>
 		<content type="html">&lt;p&gt;Okay, I admit it. &lt;a href=&quot;https://jeplmr.itch.io/balloon-ride&quot; target=&quot;blank&quot;&gt;Balloon Ride&lt;/a&gt; is a Flappy Bird clone. But it&#39;s a &lt;i&gt;chill&lt;/i&gt; Flappy Bird clone. I made it as a case study of progression and simple, accessible game design. I&#39;ve always loved that Flappy Bird required only a single input from the player; a screen tap. I wanted to see what I could do with a similar constraint, but then layer on some difficulty ramp-up. Balloon Ride starts off as a simple game where you guide a hot air balloon through floating rings. As the player&#39;s score increases, they must pay more attention to obstacles, their balloon&#39;s fuel gauge, and trickier ring placement.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://jeplmr.com/files/BalloonRide.apk&quot; class=&quot;button&quot; download=&quot;&quot;&gt;Download .apk&lt;/a&gt;&lt;/p&gt;
@@ -105,9 +105,27 @@
 	</entry>
 	
 	<entry>
-		<title>Avarus - Ludum Dare 42</title>
+		<title>Ludum Dare 43 - Blight Tower</title>
+		<link href="https://jeplmr.com/posts/blight-tower/"/>
+		<updated>2021-01-17T00:00:00+00:00</updated>
+		<id>https://jeplmr.com/posts/blight-tower/</id>
+		<content type="html">&lt;p&gt;Okay, so &lt;a href=&quot;https://jeplmr.itch.io/blight-tower&quot; target=&quot;blank&quot;&gt;Blight Tower&lt;/a&gt; is weird. I made it at Ludum Dare 43. The theme was &quot;sacrifices must be made&quot;. TLDR, I bit off more than I could chew for this compo entry. I finished, though! And the game was technically feature complete, but it still needed a lot of love in the game feel and tuning departments.&lt;/p&gt;
+&lt;p&gt;The general gameplay goes a little something like this:&lt;br&gt;&lt;br&gt;
+There&#39;s a Blight Tower. It&#39;s bad. It has a lot of HP, mmk? You can&#39;t take the thing down alone, so you need to recruite an army to help you. Luckily, there are three capturable outposts scattered around the level. Once you capture an outpost, it will spawn friendly mobs that help you attack the Tower. Good? Good.&lt;/p&gt;
+&lt;p&gt;There&#39;s one problem, though. If you piss the tower off enough, it will capture the outposts and turn your friendly mobs against you. And here is where I tried to sprinkle in the jam theme. Killing NPC&#39;s will drop health for you to stay alive (dying is generally frowned upon in Blight Tower). Now, they will drop this health regardless of their allegiance. And there&#39;s splash damage &lt;i&gt;everywhere&lt;/i&gt;, so you&#39;ll need a medkit eventually.&lt;/p&gt;
+&lt;p&gt;That&#39;s pretty much it. I wanted the game to be about a constant trade-off of NPCs helping the player with their main goal, and the player&#39;s health. Need to take out the tower quick? Capture the outposts and keep your mobs alive! Need some HP because you accidentally shot a rocket at your feet? Kill a few NPCs and you&#39;ll get a refresher! Are your friendly mobs attacking you instead of the tower? Well... kill them anyway! I wasn&#39;t able to strike the right balance in 48 hours. But I did technically finish, so I&#39;ll take it. Check out the gameplay and jam time-lapse videos below!&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;Blight Tower Gameplay&lt;/i&gt;&lt;/p&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/OzWjPV2dquQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;48 Hour Jam Time-Lapse&lt;/i&gt;&lt;/p&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/ExUrm2E2cN0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Ludum Dare 42 - Avarus</title>
 		<link href="https://jeplmr.com/posts/avarus/"/>
-		<updated>2021-01-19T00:00:00+00:00</updated>
+		<updated>2021-01-16T00:00:00+00:00</updated>
 		<id>https://jeplmr.com/posts/avarus/</id>
 		<content type="html">&lt;p&gt;&lt;a href=&quot;https://memphis-game-developers.itch.io/avarus&quot; target=&quot;blank&quot;&gt;Avarus&lt;/a&gt; was created for Ludum Dare 42 around the theme &quot;running out of space&quot;. The goal of the game is to get the highest score possible by matching coins with their opposites. If there are no matches, you can exchange a coin for a handful of its matches at the expense of board space. When you run out of space, the game ends.&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;
@@ -155,7 +173,7 @@ Good design solutions are not merely physically interesting but are driven by un
 	</entry>
 	
 	<entry>
-		<title>Modern Art Critic Hero  - Ludum  Dare 41</title>
+		<title>Ludum  Dare 41 - Modern Art Critic Hero</title>
 		<link href="https://jeplmr.com/posts/mach/"/>
 		<updated>2020-12-23T00:00:00+00:00</updated>
 		<id>https://jeplmr.com/posts/mach/</id>
@@ -173,7 +191,7 @@ Modern Art Critic Hero won &lt;a href=&quot;https://ldjam.com/events/ludum-dare/
 	</entry>
 	
 	<entry>
-		<title>The Witching Hour  - Global Game Jam 2018</title>
+		<title>Global Game Jam 2018 - The Witching Hour</title>
 		<link href="https://jeplmr.com/posts/twh/"/>
 		<updated>2020-12-22T00:00:00+00:00</updated>
 		<id>https://jeplmr.com/posts/twh/</id>
