@@ -4,8 +4,8 @@ description: Totally not a Flappy Bird clone...
 date: 2021-01-18
 tags:
   - Portfolio
-  - Unity
   - Game Jam
+  - Unity
   - Android
   - posts
 layout: layouts/post.njk

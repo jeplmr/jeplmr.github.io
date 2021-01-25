@@ -4,8 +4,8 @@ description: Abstract matching game about "Running Out of Space"
 date: 2021-01-16
 tags:
   - Portfolio
-  - Unity
   - Game Jam
+  - Unity
   - Android
   - posts
 layout: layouts/post.njk
