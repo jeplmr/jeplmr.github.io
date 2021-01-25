@@ -1,5 +1,5 @@
 ---
-title: Modern Art Critic Hero  - Ludum  Dare 41
+title: Ludum  Dare 41 - Modern Art Critic Hero
 description: Ludum Dare 41, Compo
 date: 2020-12-23
 tags:

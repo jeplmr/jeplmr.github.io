@@ -1,7 +1,7 @@
 ---
-title: Avarus - Ludum Dare 42
+title: Ludum Dare 42 - Avarus
 description: Abstract matching game about "Running Out of Space" 
-date: 2021-01-19
+date: 2021-01-16
 tags:
   - Portfolio
   - Unity

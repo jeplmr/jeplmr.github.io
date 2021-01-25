@@ -1,5 +1,5 @@
 ---
-title: The Witching Hour  - Global Game Jam 2018
+title: Global Game Jam 2018 - The Witching Hour
 description: Global Game Jam 2018
 date: 2020-12-22
 tags:

@@ -1,7 +1,7 @@
 ---
-title: Balloon Ride - Ludum Dare 47
+title: Ludum Dare 47 - Balloon Ride
 description: Totally not a Flappy Bird clone...
-date: 2021-01-19
+date: 2021-01-18
 tags:
   - Portfolio
   - Unity

@@ -1,5 +1,5 @@
 ---
-title: Mend - Oculus Launch Pad
+title: Oculus Launch Pad - Mend
 description: This was a lot of fun 
 date: 2021-01-20
 tags:
