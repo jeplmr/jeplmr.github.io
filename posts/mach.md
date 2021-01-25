@@ -19,3 +19,9 @@ layout: layouts/post.njk
 <p>
 Modern Art Critic Hero won <a href="https://ldjam.com/events/ludum-dare/41/modern-art-critic-hero" target="blank">4th place for Humor</a> in Ludum Dare 41. 
 </P>
+
+
+<p style="text-align: center"></br></br><i>Post-jam Developer Commentary</i></p>
+
+<div class="container">
+<p style="text-align: center"><iframe width="800" height="600" src="https://www.youtube.com/embed/EMBMOer_5Ug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></p></div>
