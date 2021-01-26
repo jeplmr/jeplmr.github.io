@@ -9,6 +9,12 @@
     "url": "https://jeplmr.com/about-me/"
   },
   "items": [{
+      "id": "https://jeplmr.com/posts/gitgud/",
+      "url": "https://jeplmr.com/posts/gitgud/",
+      "title": "GitGud - A Newbie&#39;s Guide to Version Control",
+      "content_html": "<div class=\"container\">\n<p style=\"text-align: center\"><iframe width=\"800\" height=\"600\" src=\"https://docs.google.com/document/d/1iGkzDlow3iCnIraS0MJE3qf31Rl9UYuYIz3WpWi8Fzo/\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen class=\"video\"></iframe></p></div>",
+      "date_published": "2021-01-25T00:00:00+00:00"
+    },{
       "id": "https://jeplmr.com/posts/mend/",
       "url": "https://jeplmr.com/posts/mend/",
       "title": "Oculus Launch Pad - Mend",
