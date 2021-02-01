@@ -21,7 +21,7 @@ layout: layouts/post.njk
 <p style="text-align: center"></br><i>Gameplay trailer I cut for Demo Day</i></p>
 <div class="container"><p style="text-align: center"><iframe width="800" height="600" src="https://www.youtube.com/embed/CKeRf5Wvzjg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></p></div>
 
-<p style="text-align: center"></br><i>"Cinematic" camera I wrote to campture gameplay footage</i></p>
+<p style="text-align: center"></br><i>"Cinematic" camera I wrote to capture gameplay footage</i></p>
 <div class="container"><p style="text-align: center"><iframe width="800" height="600" src="https://www.youtube.com/embed/qwYQS1qU5rg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></p></div>
 
 <p style="text-align: center"></br><i>Early prototype of Mend</i></p>
