@@ -18,6 +18,14 @@ layout: layouts/post.njk
 
 <p>Mend was one of eight projects to win an <a href="https://www.oculus.com/blog/introducing-the-2019-oculus-launch-pad-scholarship-recipients-plus-2020-applications-now-open/" target="blank">Oculus Launch Pad scholarship</a>. I never expected to get into Launch Pad, much less win a scholarship, so receiving the award was an amazing and humbling experience. Not only did I get to pitch my creation on-site at Oculus headquarters, but I got to lead a fantastic team of artists and programmers. I'm immensely grateful for my time with Launch Pad, and for my friends that helped build something really cool.</p>
 
-<p>Here's a trailer I cut for demo day:</p>
-
+<p style="text-align: center"></br><i>Gameplay trailer I cut for Demo Day</i></p>
 <div class="container"><p style="text-align: center"><iframe width="800" height="600" src="https://www.youtube.com/embed/CKeRf5Wvzjg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></p></div>
+
+<p style="text-align: center"></br><i>"Cinematic" camera I wrote to campture gameplay footage</i></p>
+<div class="container"><p style="text-align: center"><iframe width="800" height="600" src="https://www.youtube.com/embed/qwYQS1qU5rg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></p></div>
+
+<p style="text-align: center"></br><i>Early prototype of Mend</i></p>
+<div class="container"><p style="text-align: center"><iframe width="800" height="600" src="https://www.youtube.com/embed/bhNgvo8LJxM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></p></div>
+
+<p style="text-align: center"></br><i>Gameplay is slowly coming together</i></p>
+<div class="container"><p style="text-align: center"><iframe width="800" height="600" src="https://www.youtube.com/embed/OvikB0OIZwI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></p></div>
