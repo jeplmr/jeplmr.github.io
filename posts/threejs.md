@@ -70,6 +70,7 @@ function main(){
             const rot = time * speed;
             cube.rotation.x = rot;
             cube.rotation.y = rot;
+            cube.position.y = Math.sin(time); //added some bouncy sin action
         });
       
         renderer.render(scene, camera);
