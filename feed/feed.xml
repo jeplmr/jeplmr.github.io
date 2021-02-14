@@ -18,7 +18,7 @@
 		<updated>2021-02-13T00:00:00+00:00</updated>
 		<id>https://jeplmr.com/posts/threejs/</id>
 		<content type="html">&lt;p&gt;I&#39;m tinkering with ThreeJS, expect some jank. A lot of jank.&lt;/p&gt;
-&lt;p&gt;&lt;canvas id=&quot;c&quot; style=&quot;width:100%; height:100%&quot;&gt;&lt;/canvas&gt;&lt;/p&gt;
+&lt;p&gt;&lt;canvas id=&quot;c&quot; style=&quot;width:100%; height:100%; text-align: center&quot;&gt;&lt;/canvas&gt;&lt;/p&gt;
 &lt;script type=&quot;module&quot;&gt;
 
 import * as THREE from &quot;https://threejsfundamentals.org/threejs/resources/threejs/r125/build/three.module.js&quot;;
@@ -80,7 +80,7 @@ function main(){
         });
       
         renderer.render(scene, camera);
-        renderer.setSize( screen.width/2, screen.height/2 );
+        renderer.setSize( canvas.clientWidth, canvas.clientHeight);
       
         requestAnimationFrame(render);
       }
