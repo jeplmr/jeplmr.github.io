@@ -11,7 +11,7 @@ layout: layouts/post.njk
 I'm tinkering with ThreeJS, expect some jank. A lot of jank.
 
 
-<canvas id="c" style="width:100%; height:100%"></canvas>
+<canvas id="c" style="width:100%; height:100%; text-align: center"></canvas>
 <script type="module">
 
 import * as THREE from "https://threejsfundamentals.org/threejs/resources/threejs/r125/build/three.module.js";
@@ -73,7 +73,7 @@ function main(){
         });
       
         renderer.render(scene, camera);
-        renderer.setSize( screen.width/2, screen.height/2 );
+        renderer.setSize( canvas.clientWidth, canvas.clientHeight);
       
         requestAnimationFrame(render);
       }
