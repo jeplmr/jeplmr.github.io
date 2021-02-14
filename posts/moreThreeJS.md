@@ -1,5 +1,5 @@
 ---
-title: Simple ThreeJS Photosphere
+title: Simple ThreeJS VR-Enabled Photosphere
 description: VR Enabled this time!
 date: 2021-02-14
 tags:
