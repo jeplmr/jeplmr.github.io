@@ -30,6 +30,8 @@ function main(){
     light.position.set(-1, 2, 4);
     scene.add(light);
 
+
+    
     function makeInstance(geometry, color, x) {
         const material = new THREE.MeshPhongMaterial({color});
        
