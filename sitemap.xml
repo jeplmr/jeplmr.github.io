@@ -82,6 +82,11 @@
   </url>
   
   <url>
+    <loc>https://jeplmr.com/posts/moreThreeJS/</loc>
+    <lastmod>2021-02-14</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jeplmr.com/about/</loc>
     <lastmod>2021-02-14</lastmod>
   </url>
@@ -162,12 +167,12 @@
   </url>
   
   <url>
-    <loc>https://jeplmr.com/tags/Shaders/</loc>
+    <loc>https://jeplmr.com/tags/Three.JS/</loc>
     <lastmod>2021-02-14</lastmod>
   </url>
   
   <url>
-    <loc>https://jeplmr.com/tags/Three.JS/</loc>
+    <loc>https://jeplmr.com/tags/Shaders/</loc>
     <lastmod>2021-02-14</lastmod>
   </url>
 </urlset>

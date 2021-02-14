@@ -5,12 +5,88 @@
 	
 	<link href="https://jeplmr.com/feed/feed.xml" rel="self"/>
 	<link href="https://jeplmr.com"/>
-	<updated>2021-02-13T00:00:00+00:00</updated>
+	<updated>2021-02-14T00:00:00+00:00</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Justin Palmer</name>
 		<email>jeplmr@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Simple ThreeJS Photosphere</title>
+		<link href="https://jeplmr.com/posts/moreThreeJS/"/>
+		<updated>2021-02-14T00:00:00+00:00</updated>
+		<id>https://jeplmr.com/posts/moreThreeJS/</id>
+		<content type="html">&lt;p&gt;Okay, I think I&#39;ve got a basic handle on ThreeJS now. This one is pretty simple. It&#39;s just a scene with a single sphere mesh that has a photoshere texture assigned to its material. Oh, and I&#39;m drawing backfaces, too. For some reason I can&#39;t get this to run in FireFox, but Edge works just fine? I&#39;ll look into it. Tested with Edge and a Quest 2 via Oculus Link.&lt;/p&gt;
+&lt;p&gt;&lt;canvas id=&quot;c&quot; style=&quot;width:100%; height:100%; text-align: center&quot;&gt;&lt;/canvas&gt;&lt;/p&gt;
+&lt;script type=&quot;module&quot;&gt;
+
+import * as THREE from &#39;https://threejsfundamentals.org/threejs/resources/threejs/r125/build/three.module.js&#39;;
+import {VRButton} from &#39;https://threejsfundamentals.org/threejs/resources/threejs/r125/examples/jsm/webxr/VRButton.js&#39;;
+
+function main() {
+  const canvas = document.querySelector(&#39;#c&#39;);
+  const renderer = new THREE.WebGLRenderer({canvas});
+  renderer.xr.enabled = true;
+  document.body.appendChild(VRButton.createButton(renderer));
+
+  const fov = 75;
+  const aspect = 2;  // the canvas default
+  const near = 0.1;
+  const far = 16;
+  const camera = new THREE.PerspectiveCamera(fov, aspect, near, far);
+  camera.position.set(0, 1.6, 0);
+
+  const scene = new THREE.Scene();
+
+
+    const radius = 12; 
+    const widthSegments = 24; 
+    const heightSegments = 24; 
+    const sphere = new THREE.SphereGeometry(radius, widthSegments, heightSegments); 
+
+    const loader = new THREE.TextureLoader();
+    const material = new THREE.MeshBasicMaterial({
+        map: loader.load(&#39;/img/PHOTOSPHERE.jpg&#39;),
+        side: THREE.DoubleSide, 
+    });
+
+    const bgMesh = new THREE.Mesh(sphere, material);
+    scene.add(bgMesh);
+    bgMesh.position.set(0, 0, 0); 
+
+
+  function resizeRendererToDisplaySize(renderer) {
+    const canvas = renderer.domElement;
+    const width = canvas.clientWidth;
+    const height = canvas.clientHeight;
+    const needResize = canvas.width !== width || canvas.height !== height;
+    if (needResize) {
+      renderer.setSize(width, height, false);
+    }
+    return needResize;
+  }
+
+  function render(time) {
+    time *= 0.001;
+
+    if (resizeRendererToDisplaySize(renderer)) {
+      const canvas = renderer.domElement;
+      camera.aspect = canvas.clientWidth / canvas.clientHeight;
+      camera.updateProjectionMatrix();
+    }
+
+    renderer.render(scene, camera);
+  }
+
+  renderer.setAnimationLoop(render);
+}
+
+main();
+
+&lt;/script&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>ThreeJS Tinkering</title>
@@ -77,6 +153,7 @@ function main(){
             const rot = time * speed;
             cube.rotation.x = rot;
             cube.rotation.y = rot;
+            cube.position.y = Math.sin(time); //added some bouncy sin action
         });
       
         renderer.render(scene, camera);
