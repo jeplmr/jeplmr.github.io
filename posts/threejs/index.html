@@ -29,24 +29,21 @@
       <h1>ThreeJS Tinkering</h1>
 
 <p>I'm tinkering with ThreeJS, expect some jank. A lot of jank.</p>
-<body>
-    <canvas id="c" style="width:100%; height:100%">kjhsdfkjhdf</canvas>
-    <script type="module">
-<pre><code>import * as THREE from &quot;https://threejsfundamentals.org/threejs/resources/threejs/r125/build/three.module.js&quot;;
+<p><canvas id="c" style="width:100%; height:100%"></canvas></p>
+<script type="module">
+
+import * as THREE from "https://threejsfundamentals.org/threejs/resources/threejs/r125/build/three.module.js";
 
 function main(){
     const canvas = document.querySelector('#c');
     const renderer = new THREE.WebGLRenderer({canvas});
 
-    const fov = 75;
+    const fov = 90; 
     const aspect = 2;  // the canvas default
     const near = 0.1;
     const far = 5;
 
-    const width = screen.width;
-    const height = screen.height; 
-
-    const camera = new THREE.PerspectiveCamera(fov, width/height, near, far);
+    const camera = new THREE.PerspectiveCamera(fov, aspect, near, far);
     camera.position.z = 2.5;
 
     const scene = new THREE.Scene();
@@ -86,7 +83,7 @@ function main(){
     function render(time) {
         time *= 0.001;  // convert time to seconds
       
-        cubes.forEach((cube, ndx) =&gt; {
+        cubes.forEach((cube, ndx) => {
             const speed = 1 + ndx * .1;
             const rot = time * speed;
             cube.rotation.x = rot;
@@ -94,7 +91,7 @@ function main(){
         });
       
         renderer.render(scene, camera);
-        renderer.setSize( window.innerWidth, window.innerHeight );
+        renderer.setSize( screen.width/2, screen.height/2 );
       
         requestAnimationFrame(render);
       }
@@ -103,9 +100,8 @@ function main(){
 
 main();
 
-&lt;/script&gt;
-</code></pre>
-</body>
+</script>
+
 
 <hr>
 <ul><li>Previous: <a href="/posts/gitgud/">GitGud - A Newbie&#39;s Guide to Version Control</a></li>

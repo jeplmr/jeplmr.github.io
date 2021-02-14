@@ -18,24 +18,21 @@
 		<updated>2021-02-13T00:00:00+00:00</updated>
 		<id>https://jeplmr.com/posts/threejs/</id>
 		<content type="html">&lt;p&gt;I&#39;m tinkering with ThreeJS, expect some jank. A lot of jank.&lt;/p&gt;
-&lt;body&gt;
-    &lt;canvas id=&quot;c&quot; style=&quot;width:100%; height:100%&quot;&gt;kjhsdfkjhdf&lt;/canvas&gt;
-    &lt;script type=&quot;module&quot;&gt;
-&lt;pre&gt;&lt;code&gt;import * as THREE from &amp;quot;https://threejsfundamentals.org/threejs/resources/threejs/r125/build/three.module.js&amp;quot;;
+&lt;p&gt;&lt;canvas id=&quot;c&quot; style=&quot;width:100%; height:100%&quot;&gt;&lt;/canvas&gt;&lt;/p&gt;
+&lt;script type=&quot;module&quot;&gt;
+
+import * as THREE from &quot;https://threejsfundamentals.org/threejs/resources/threejs/r125/build/three.module.js&quot;;
 
 function main(){
     const canvas = document.querySelector(&#39;#c&#39;);
     const renderer = new THREE.WebGLRenderer({canvas});
 
-    const fov = 75;
+    const fov = 90; 
     const aspect = 2;  // the canvas default
     const near = 0.1;
     const far = 5;
 
-    const width = screen.width;
-    const height = screen.height; 
-
-    const camera = new THREE.PerspectiveCamera(fov, width/height, near, far);
+    const camera = new THREE.PerspectiveCamera(fov, aspect, near, far);
     camera.position.z = 2.5;
 
     const scene = new THREE.Scene();
@@ -75,7 +72,7 @@ function main(){
     function render(time) {
         time *= 0.001;  // convert time to seconds
       
-        cubes.forEach((cube, ndx) =&amp;gt; {
+        cubes.forEach((cube, ndx) =&gt; {
             const speed = 1 + ndx * .1;
             const rot = time * speed;
             cube.rotation.x = rot;
@@ -83,7 +80,7 @@ function main(){
         });
       
         renderer.render(scene, camera);
-        renderer.setSize( window.innerWidth, window.innerHeight );
+        renderer.setSize( screen.width/2, screen.height/2 );
       
         requestAnimationFrame(render);
       }
@@ -92,9 +89,8 @@ function main(){
 
 main();
 
-&amp;lt;/script&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/body&gt;&lt;/script&gt;&lt;/body&gt;</content>
+&lt;/script&gt;
+</content>
 	</entry>
 	
 	<entry>
