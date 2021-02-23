@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Okay, I know VR photospheres aren't that impressive anymore, but I couldn't resist whipping this one up from the Perseverance rover. Image credit <a href="https://www.jpl.nasa.gov/images/perseverance-navcams-360-degree-panorama" target="blank">JPL</a>.  
+Okay, last VR photosphere, I promise. I couldn't resist making one from the Perseverance rover. Image credit <a href="https://www.jpl.nasa.gov/images/perseverance-navcams-360-degree-panorama" target="blank">JPL</a>.  
 
 
 <canvas id="c" style="width:100%; height:100%; text-align: center"></canvas>
