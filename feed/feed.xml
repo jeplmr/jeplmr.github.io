@@ -17,7 +17,7 @@
 		<link href="https://jeplmr.com/posts/marsPhotosphere/"/>
 		<updated>2021-02-23T00:00:00+00:00</updated>
 		<id>https://jeplmr.com/posts/marsPhotosphere/</id>
-		<content type="html">&lt;p&gt;Okay, I know VR photospheres aren&#39;t that impressive anymore, but I couldn&#39;t resist whipping this one up from the Perseverance rover. Image credit &lt;a href=&quot;https://www.jpl.nasa.gov/images/perseverance-navcams-360-degree-panorama&quot; target=&quot;blank&quot;&gt;JPL&lt;/a&gt;.&lt;/p&gt;
+		<content type="html">&lt;p&gt;Okay, last VR photosphere, I promise. I couldn&#39;t resist making one from the Perseverance rover. Image credit &lt;a href=&quot;https://www.jpl.nasa.gov/images/perseverance-navcams-360-degree-panorama&quot; target=&quot;blank&quot;&gt;JPL&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;canvas id=&quot;c&quot; style=&quot;width:100%; height:100%; text-align: center&quot;&gt;&lt;/canvas&gt;&lt;/p&gt;
 &lt;script type=&quot;module&quot;&gt;
 
