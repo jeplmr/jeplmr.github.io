@@ -33,7 +33,7 @@ function main() {
   const fov = 75;
   const aspect = 2;  // the canvas default
   const near = 0.1;
-  const far = 16;
+  const far = 50;
   const camera = new THREE.PerspectiveCamera(fov, aspect, near, far);
   camera.position.set(0, 1.6, 0);
 
@@ -47,7 +47,7 @@ function main() {
 
     const loader = new THREE.TextureLoader();
     const material = new THREE.MeshBasicMaterial({
-        map: loader.load(&#39;/img/jpegPIA24422_tweakedFOV.jpg&#39;),
+        map: loader.load(&#39;/img/perseverance-hires.jpg&#39;),
         side: THREE.DoubleSide, 
     });
 
