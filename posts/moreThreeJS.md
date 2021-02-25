@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Okay, I think I've got a basic handle on ThreeJS now. This one is pretty simple. It's just a scene with a single sphere mesh that has a photoshere texture assigned to its material. Oh, and I'm drawing backfaces, too. For some reason I can't get this to run in FireFox, but Edge works just fine? I'll look into it. Tested with Edge and a Quest 2 via Oculus Link. 
+Okay, I think I've got a basic handle on ThreeJS now. This one is pretty simple. It's just a scene with a single sphere mesh that has a photoshere texture assigned to its material. Oh, and I'm drawing back faces as well because the camera is "inside" the sphere, and therrefore can't see the front faces. For some reason I can't get this to run in FireFox, but Edge works just fine? I'll look into it. Tested with Edge and a Quest 2 via Oculus Link. 
 
 
 <canvas id="c" style="width:100%; height:100%; text-align: center"></canvas>
