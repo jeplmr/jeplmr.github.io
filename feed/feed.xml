@@ -5,7 +5,7 @@
 	
 	<link href="https://jeplmr.com/feed/feed.xml" rel="self"/>
 	<link href="https://jeplmr.com"/>
-	<updated>2021-02-23T00:00:00+00:00</updated>
+	<updated>2021-02-23T00:00:00Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Justin Palmer</name>
@@ -15,7 +15,7 @@
 	<entry>
 		<title>Perseverance Rover Photosphere</title>
 		<link href="https://jeplmr.com/posts/marsPhotosphere/"/>
-		<updated>2021-02-23T00:00:00+00:00</updated>
+		<updated>2021-02-23T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/marsPhotosphere/</id>
 		<content type="html">&lt;p&gt;Okay, last VR photosphere, I promise. I couldn&#39;t resist making one from the Perseverance rover. Image credit &lt;a href=&quot;https://www.nasa.gov/sites/default/files/thumbnails/image/pia2464-mastcam-zs_first_360-degree_panorama2.jpg&quot; target=&quot;blank&quot;&gt;NASA&lt;/a&gt; Warning, this image is super high resolution and might take a moment to load on slower connections.&lt;/p&gt;
 &lt;p&gt;&lt;canvas id=&quot;c&quot; style=&quot;width:100%; height:100%; text-align: center&quot;&gt;&lt;/canvas&gt;&lt;/p&gt;
@@ -91,7 +91,7 @@ main();
 	<entry>
 		<title>Simple ThreeJS VR-Enabled Photosphere</title>
 		<link href="https://jeplmr.com/posts/moreThreeJS/"/>
-		<updated>2021-02-14T00:00:00+00:00</updated>
+		<updated>2021-02-14T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/moreThreeJS/</id>
 		<content type="html">&lt;p&gt;Okay, I think I&#39;ve got a basic handle on ThreeJS now. This one is pretty simple. It&#39;s just a scene with a single sphere mesh that has a photoshere texture assigned to its material. Oh, and I&#39;m drawing back faces as well because the camera is &amp;quot;inside&amp;quot; the sphere, and therrefore can&#39;t see the front faces. For some reason I can&#39;t get this to run in FireFox, but Edge works just fine? I&#39;ll look into it. Tested with Edge and a Quest 2 via Oculus Link.&lt;/p&gt;
 &lt;p&gt;&lt;canvas id=&quot;c&quot; style=&quot;width:100%; height:100%; text-align: center&quot;&gt;&lt;/canvas&gt;&lt;/p&gt;
@@ -167,7 +167,7 @@ main();
 	<entry>
 		<title>ThreeJS Tinkering</title>
 		<link href="https://jeplmr.com/posts/threejs/"/>
-		<updated>2021-02-13T00:00:00+00:00</updated>
+		<updated>2021-02-13T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/threejs/</id>
 		<content type="html">&lt;p&gt;I&#39;m tinkering with ThreeJS, expect some jank. A lot of jank.&lt;/p&gt;
 &lt;p&gt;&lt;canvas id=&quot;c&quot; style=&quot;width:100%; height:100%; text-align: center&quot;&gt;&lt;/canvas&gt;&lt;/p&gt;
@@ -249,7 +249,7 @@ main();
 	<entry>
 		<title>GitGud - A Newbie&#39;s Guide to Version Control</title>
 		<link href="https://jeplmr.com/posts/gitgud/"/>
-		<updated>2021-01-25T00:00:00+00:00</updated>
+		<updated>2021-01-25T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/gitgud/</id>
 		<content type="html">&lt;div class=&quot;container&quot;&gt;
 &lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://docs.google.com/document/d/1iGkzDlow3iCnIraS0MJE3qf31Rl9UYuYIz3WpWi8Fzo/&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
@@ -258,26 +258,26 @@ main();
 	<entry>
 		<title>Oculus Launch Pad - Mend</title>
 		<link href="https://jeplmr.com/posts/mend/"/>
-		<updated>2021-01-20T00:00:00+00:00</updated>
+		<updated>2021-01-20T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/mend/</id>
-		<content type="html">&lt;p style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/Mend_wave.gif&quot;&gt;&lt;/p&gt;
+		<content type="html">&lt;p style=&quot;text-align: center&quot;&gt;&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/Mend_wave.gif&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;In late 2019, I was invited to attend &lt;a href=&quot;https://developer.oculus.com/launch-pad/&quot; target=&quot;blank&quot;&gt;Oculus Launch Pad&lt;/a&gt;. This involved attending an XR bootcamp along with 99 other aspiring developers, and a challenge; build and pitch a vertical slice in three months. I got home, and immediately started tinkering in Unity. After a few failed prototypes, I landed on an asymmetric, cooperative two-player experience, which became Mend.&lt;/p&gt;
 &lt;p&gt;The asymmetric aspect of Mend is what hooked me on the idea, and pushed me to complete the demo. Two players need to work together to solve puzzles and explore the game world, all while leveraging their own unique perspectives. The VR player is a massive, towering chacracter that has the largest view of the gameplay space. The flatscreen player is a more traditional 3rd person character, allowing them to more easily focus on the details and see things up close.&lt;/p&gt;
 &lt;p&gt;Mend was one of eight projects to win an &lt;a href=&quot;https://www.oculus.com/blog/introducing-the-2019-oculus-launch-pad-scholarship-recipients-plus-2020-applications-now-open/&quot; target=&quot;blank&quot;&gt;Oculus Launch Pad scholarship&lt;/a&gt;. I never expected to get into Launch Pad, much less win a scholarship, so receiving the award was an amazing and humbling experience. Not only did I get to pitch my creation on-site at Oculus headquarters, but I got to lead a fantastic team of artists and programmers. I&#39;m immensely grateful for my time with Launch Pad, and for my friends that helped build something really cool.&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;i&gt;Gameplay trailer I cut for Demo Day&lt;/i&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;br /&gt;&lt;i&gt;Gameplay trailer I cut for Demo Day&lt;/i&gt;&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/CKeRf5Wvzjg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;i&gt;&quot;Cinematic&quot; camera I wrote to capture gameplay footage&lt;/i&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;br /&gt;&lt;i&gt;&quot;Cinematic&quot; camera I wrote to capture gameplay footage&lt;/i&gt;&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/qwYQS1qU5rg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;i&gt;Early prototype of Mend&lt;/i&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;br /&gt;&lt;i&gt;Early prototype of Mend&lt;/i&gt;&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/bhNgvo8LJxM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;i&gt;Gameplay is slowly coming together&lt;/i&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;br /&gt;&lt;i&gt;Gameplay is slowly coming together&lt;/i&gt;&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/OvikB0OIZwI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
 	</entry>
 	
 	<entry>
 		<title>Swivel Chair Shooter - Prototype, Oculus Go</title>
 		<link href="https://jeplmr.com/posts/swivelchairshooter/"/>
-		<updated>2021-01-19T00:00:00+00:00</updated>
+		<updated>2021-01-19T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/swivelchairshooter/</id>
 		<content type="html">&lt;p&gt;Swivel Chair Shooter was a labor of love for me. I lost countless hours to the Zombies mode in Call of Duty: World at War. I don&#39;t know why I decided to do a remake with the Oculus Go, but all that play time probably had something to do with it.&lt;/p&gt;
 &lt;p&gt;Whenever I sit down to &quot;clone&quot; something, I usually do so as a case study, or to learn something specifc. In this case, it was both. I wanted to to analyse how the game&#39;s progression worked, how the power-ups tied into that, and how the economy aspect played into the whole thing. It was also the first time I messed with mobile VR and shader graph.&lt;/p&gt;
@@ -290,7 +290,7 @@ main();
 	<entry>
 		<title>Retro Ride - Low Poly DeLorean</title>
 		<link href="https://jeplmr.com/posts/retroride/"/>
-		<updated>2021-01-19T00:00:00+00:00</updated>
+		<updated>2021-01-19T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/retroride/</id>
 		<content type="html">&lt;p&gt;Another Mapcore challenge. In August 2019, I couldn&#39;t pass up their &#39;Retro Ride&#39; challenge. The rules were simple: Recreate the Ecto-1, the DeLorean time machine, or Jurassic Park Jeep. Oh, and it needs to be less than 500 tris and use a single 128*128 texture map. I adore all three of those vehicles, so I kitbashed them all together in a way I thought was fitting.&lt;/p&gt;
 &lt;div class=&quot;sketchfab-embed-wrapper&quot;&gt;
@@ -301,13 +301,13 @@ main();
         on &lt;a href=&quot;https://sketchfab.com/?utm_medium=embed&amp;utm_source=website&amp;utm_campaign=share-popup&quot; target=&quot;_blank&quot; style=&quot;font-weight: bold; color: #1CAAD9;&quot;&gt;Sketchfab&lt;/a&gt;
     &lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;Do me favor and don&#39;t look under the car. Or behind it.&lt;br&gt;&lt;br&gt;;)&lt;/p&gt;</content>
+&lt;p&gt;Do me favor and don&#39;t look under the car. Or behind it.&lt;br /&gt;&lt;br /&gt;;)&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title>Nostalgic Level Up - Super Mario Bros. World 1-1</title>
 		<link href="https://jeplmr.com/posts/nostalgiclevelup/"/>
-		<updated>2021-01-19T00:00:00+00:00</updated>
+		<updated>2021-01-19T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/nostalgiclevelup/</id>
 		<content type="html">&lt;p&gt;I like to participate in Mapcore&#39;s monthly challenges whenever I get the chance. In July 2019, the challenge was to recreate a level from a video game. There was a choice of three maps, but only one stuck out to me. World 1-1 from Super Mario Bros. I took the whole month and recreated everything I could using Unity and Blender. I made all the textures, models, programming. Everything from scratch. Including the awful animations on Mario (give me a break, I&#39;ve never animated anything before). Except the music, that was done by the talented &lt;a href=&quot;https://soundcloud.com/jonathan-marlin&quot; target=&quot;blank&quot;&gt;Jonathan Marlin&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;
@@ -317,19 +317,19 @@ main();
 	<entry>
 		<title>Funnels &amp; Fizzlers - Portal 2</title>
 		<link href="https://jeplmr.com/posts/funnelsandfizzlers/"/>
-		<updated>2021-01-19T00:00:00+00:00</updated>
+		<updated>2021-01-19T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/funnelsandfizzlers/</id>
 		<content type="html">&lt;p&gt;I made Funnels &amp; Fizzlers way back in 2011 for the &lt;a href=&quot;https://theportalwiki.com/wiki/Summer_Mapping_Initiative&quot; target=&quot;blank&quot;&gt;Summer Mapping Initiative&lt;/a&gt;. At the time, I hadn&#39;t touched Hammer or Source in literally years. Unfortunately, I don&#39;t know what my final score was, but I was just happy to finish.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://jeplmr.com/files/sp_funnels_n_fizzlers.zip&quot; class=&quot;button&quot; download=&quot;&quot;&gt;Download .BSP Manually&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://steamcommunity.com/sharedfiles/filedetails/?id=1755624688&quot; class=&quot;button&quot; target=&quot;blank&quot;&gt;Subscribe via Steam Workshop&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;The exit, so close yet so far.&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/fnf_cube.jpg&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;Don&#39;t fall in the acid...?&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/fnf.jpg&quot;&gt;&lt;/p&gt;</content>
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;The exit, so close yet so far.&lt;/i&gt;&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/fnf_cube.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;Don&#39;t fall in the acid...?&lt;/i&gt;&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/fnf.jpg&quot; /&gt;&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title>Environment Study - Memphis Game Developers</title>
 		<link href="https://jeplmr.com/posts/environmentstudy/"/>
-		<updated>2021-01-19T00:00:00+00:00</updated>
+		<updated>2021-01-19T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/environmentstudy/</id>
 		<content type="html">&lt;p&gt;Late in December 2018, my local Unity meetup hosted a month-long environment study challenge. The rules were simple: recreate a scene from any photo. &lt;a href=&quot;https://docs.google.com/presentation/d/1t72S2quB0F73HnqWhIXWOFzrJ5RDRX9qGtP3_yET5P8/edit?usp=sharing&quot; target=&quot;blank&quot;&gt;I detail my process here in these slides&lt;/a&gt;, but the basic idea is that I took the specifications from the physical camera used to take the reference photo and applied them to the camera settings in Unity. Once I had that, I overlaid the reference photo on top of my scene in Unity and started rebuilding everything from scratch. Please excuse some of the messy geometry in the scene, I was still learning Blender at the time.&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;
@@ -339,18 +339,18 @@ main();
 	<entry>
 		<title>cs_gallery - Counter-Strike Global Offensive</title>
 		<link href="https://jeplmr.com/posts/cs_gallery/"/>
-		<updated>2021-01-19T00:00:00+00:00</updated>
+		<updated>2021-01-19T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/cs_gallery/</id>
 		<content type="html">&lt;p&gt;I started working on the blockout of cs_gallery in early 2019. My goal was to create a small hostage rescue map similar to cs_office, but with the modern feel of cs_agency. I wanted to encourage player conflict in tight spaces. While I obviously didn&#39;t get past the blockout phase, I still enjoyed creating this layout and testing it with friends.&lt;/p&gt;
 &lt;p&gt;I have a love/hate relationship with cs_office. It&#39;s probably my most played Counter-Strike map, but I&#39;ve grown to really hate the choke points. Long Hall always turns into an AWP fight, and Paper is consistently a spam-fest. But damnit, the map has this charming quality I can&#39;t quite place.&lt;/p&gt;
 &lt;p&gt;The inspiration from cs_office should be clear. Gallery features two choke points: its own &quot;Long Hall&quot;, and a medium-sized choke point that bisects the gallery right across the middle. T&#39;s start on the north-side of the map and CT&#39;s start on the south-side. I had the large strokes in place. Initial testing indicated that the map was decently balanced at the time. If players on either side headed straight for a choke point, they would meet at the same time; roughly 12-13 seconds into a match. The blockout isn&#39;t without flaws, though. The T-side doesn&#39;t feel cohesive and suffers from the &quot;room-and-hall&quot; syndrome that plagues every budding level designer. Cover and sight lines still need work. I&#39;d love to take this map all the way to art pass one day.&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;Top-down view of cs_gallery blockout.&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/gallery.jpg&quot;&gt;&lt;/p&gt;</content>
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;Top-down view of cs_gallery blockout.&lt;/i&gt;&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/gallery.jpg&quot; /&gt;&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title>Ludum Dare 47 - Balloon Ride</title>
 		<link href="https://jeplmr.com/posts/balloon/"/>
-		<updated>2021-01-18T00:00:00+00:00</updated>
+		<updated>2021-01-18T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/balloon/</id>
 		<content type="html">&lt;p&gt;Okay, I admit it. &lt;a href=&quot;https://jeplmr.itch.io/balloon-ride&quot; target=&quot;blank&quot;&gt;Balloon Ride&lt;/a&gt; is a Flappy Bird clone. But it&#39;s a &lt;i&gt;chill&lt;/i&gt; Flappy Bird clone. I made it as a case study of progression and simple, accessible game design. I&#39;ve always loved that Flappy Bird required only a single input from the player; a screen tap. I wanted to see what I could do with a similar constraint, but then layer on some difficulty ramp-up. Balloon Ride starts off as a simple game where you guide a hot air balloon through floating rings. As the player&#39;s score increases, they must pay more attention to obstacles, their balloon&#39;s fuel gauge, and trickier ring placement.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://jeplmr.com/files/BalloonRide.apk&quot; class=&quot;button&quot; download=&quot;&quot;&gt;Download .apk&lt;/a&gt;&lt;/p&gt;
@@ -361,10 +361,10 @@ main();
 	<entry>
 		<title>Ludum Dare 43 - Blight Tower</title>
 		<link href="https://jeplmr.com/posts/blight-tower/"/>
-		<updated>2021-01-17T00:00:00+00:00</updated>
+		<updated>2021-01-17T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/blight-tower/</id>
 		<content type="html">&lt;p&gt;Okay, so &lt;a href=&quot;https://jeplmr.itch.io/blight-tower&quot; target=&quot;blank&quot;&gt;Blight Tower&lt;/a&gt; is weird. I made it at Ludum Dare 43. The theme was &quot;sacrifices must be made&quot;. TLDR, I bit off more than I could chew for this compo entry. I finished, though! And the game was technically feature complete, but it still needed a lot of love in the game feel and tuning departments.&lt;/p&gt;
-&lt;p&gt;The general gameplay goes a little something like this:&lt;br&gt;&lt;br&gt;
+&lt;p&gt;The general gameplay goes a little something like this:&lt;br /&gt;&lt;br /&gt;
 There&#39;s a Blight Tower. It&#39;s bad. It has a lot of HP, mmk? You can&#39;t take the thing down alone, so you need to recruite an army to help you. Luckily, there are three capturable outposts scattered around the level. Once you capture an outpost, it will spawn friendly mobs that help you attack the Tower. Good? Good.&lt;/p&gt;
 &lt;p&gt;There&#39;s one problem, though. If you piss the tower off enough, it will capture the outposts and turn your friendly mobs against you. And here is where I tried to sprinkle in the jam theme. Killing NPC&#39;s will drop health for you to stay alive (dying is generally frowned upon in Blight Tower). Now, they will drop this health regardless of their allegiance. And there&#39;s splash damage &lt;i&gt;everywhere&lt;/i&gt;, so you&#39;ll need a medkit eventually.&lt;/p&gt;
 &lt;p&gt;That&#39;s pretty much it. I wanted the game to be about a constant trade-off of NPCs helping the player with their main goal, and the player&#39;s health. Need to take out the tower quick? Capture the outposts and keep your mobs alive! Need some HP because you accidentally shot a rocket at your feet? Kill a few NPCs and you&#39;ll get a refresher! Are your friendly mobs attacking you instead of the tower? Well... kill them anyway! I wasn&#39;t able to strike the right balance in 48 hours. But I did technically finish, so I&#39;ll take it. Check out the gameplay and jam time-lapse videos below!&lt;/p&gt;
@@ -379,7 +379,7 @@ There&#39;s a Blight Tower. It&#39;s bad. It has a lot of HP, mmk? You can&#39;t
 	<entry>
 		<title>Ludum Dare 42 - Avarus</title>
 		<link href="https://jeplmr.com/posts/avarus/"/>
-		<updated>2021-01-16T00:00:00+00:00</updated>
+		<updated>2021-01-16T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/avarus/</id>
 		<content type="html">&lt;p&gt;&lt;a href=&quot;https://memphis-game-developers.itch.io/avarus&quot; target=&quot;blank&quot;&gt;Avarus&lt;/a&gt; was created for Ludum Dare 42 around the theme &quot;running out of space&quot;. The goal of the game is to get the highest score possible by matching coins with their opposites. If there are no matches, you can exchange a coin for a handful of its matches at the expense of board space. When you run out of space, the game ends.&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;
@@ -389,39 +389,39 @@ There&#39;s a Blight Tower. It&#39;s bad. It has a lot of HP, mmk? You can&#39;t
 	<entry>
 		<title>Ramblings on Level Design, Part 1</title>
 		<link href="https://jeplmr.com/posts/leveldesign/"/>
-		<updated>2020-12-29T00:00:00+00:00</updated>
+		<updated>2020-12-29T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/leveldesign/</id>
 		<content type="html">&lt;p&gt;Buckle up, we&#39;re going back to 2002.&lt;/p&gt;
 &lt;p style=&quot;text-indent: 2em&quot;&gt;I think I got my first &quot;look behind the curtain&quot; with &lt;i&gt;Return to Castle Wolfenstein&lt;/i&gt;. My brother brought home a &quot;Game of the Year&quot; edition of the game, which was really cool because it came with a bunch of extras like desktop wallpapers and such. But the coolest extra was a developer highlight reel, which I&#39;ve linked below. I must have watched that reel at least a dozen times back in the day. I definitely wasn&#39;t old enough for the game&#39;s &lt;i&gt;M for Mature&lt;/i&gt; rating at the time, so seeing the people and the creative process captured the full attention of my young, &lt;i&gt;E for Everyone&lt;/i&gt; mind. I had only ever known video games as these weird black boxes that suddenly made your TV interactive. I never stopped to think about how those black boxes were made. But seeing the developers talk about how they made the magic happen was incredibly fascinating, especially for my 13-ish year old self. I especially love what Rich Farrelly said about the level editor; &quot;It can be pretty intimidating at first with all the lines, entities, verticies... and any other -ies you can think of&quot;.
-&lt;div class=&quot;container&quot;&gt;
+&lt;/p&gt;&lt;div class=&quot;container&quot;&gt;
 &lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/BC_KoTZbRQA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;
-&lt;/p&gt;&lt;p style=&quot;text-indent: 2em&quot;&gt;A couple years later, and a small indie game called &lt;i&gt;Half-Life 2&lt;/i&gt; releases in 2004. You&#39;ve probably never heard of it. But Half-Life 2 was great. Played through single player a bunch. Hurled toilets at other people in HL2 Deathmatch. Loved it. But then I found the modding scene. And, for better or worse, Garry&#39;s mod. And it was playing gmod where I found other normal people (i.e., kids just like me) making and sharing content for a video game. It definitely helped break down this &quot;I could never do that&quot; mindset I was stuck with. I eventually joined the Facepunch forums, got banned a bunch for bad grammar, but &lt;i&gt;then&lt;/i&gt; I started looking around the &quot;mapping&quot; threads. And this is where I downloaded Hammer and took a whack at making my own Garry&#39;s Mod maps for the first time. 
+&lt;p style=&quot;text-indent: 2em&quot;&gt;A couple years later, and a small indie game called &lt;i&gt;Half-Life 2&lt;/i&gt; releases in 2004. You&#39;ve probably never heard of it. But Half-Life 2 was great. Played through single player a bunch. Hurled toilets at other people in HL2 Deathmatch. Loved it. But then I found the modding scene. And, for better or worse, Garry&#39;s mod. And it was playing gmod where I found other normal people (i.e., kids just like me) making and sharing content for a video game. It definitely helped break down this &quot;I could never do that&quot; mindset I was stuck with. I eventually joined the Facepunch forums, got banned a bunch for bad grammar, but &lt;i&gt;then&lt;/i&gt; I started looking around the &quot;mapping&quot; threads. And this is where I downloaded Hammer and took a whack at making my own Garry&#39;s Mod maps for the first time. 
 &lt;/p&gt;&lt;p style=&quot;text-indent: 2em&quot;&gt;Boy oh boy, were they bad. Plus I had no idea what I was doing (then again, I don&#39;t think anyone else on the Facepunch mapping forums did, either). But it didn&#39;t matter. I had a blast making my awful maps. I also met a bunch of really cool people that I otherwise wouldn&#39;t have. I made malls, zombie infested towns, remakes, catacombs. I made whatever my highschool brain (and limited free time) could think up. My friends and I even tried tackling a full-sized Half-Life 2 mod about a Civil Protection cop caught in the crossfire of Gordon&#39;s misadventures. We never finished the mod, unfortunately. But hey, at least a few scrappy highschool kids scattered across the country were willing to even try a project with that scope. We made a surprising amount of progress before SATs, ACTs, and college prep got in the way. Here are some really low resolution screenshots I managed to scrounge up! 
-&lt;/p&gt;&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;Some catacombs I was working on.&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/catacombs.jpg&quot;&gt;&lt;/p&gt;&lt;p&gt;
-&lt;/p&gt;&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;rp_zombiesurvival, one of my more popular Garry&#39;s Mod maps.&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/zs1.jpg&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;An unfinished shopping mall. Yes, I was going to fill this with zombies, too.&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/mall.jpg&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;A remake of Mario Kart 64&#39;s Blockfort, featuring custom textures.&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/blockfort.jpg&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;An introductory level of the aforementioned HL2 mod that was never finished.&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/combinemod.jpg&quot;&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;Some catacombs I was working on.&lt;/i&gt;&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/catacombs.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;rp_zombiesurvival, one of my more popular Garry&#39;s Mod maps.&lt;/i&gt;&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/zs1.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;An unfinished shopping mall. Yes, I was going to fill this with zombies, too.&lt;/i&gt;&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/mall.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;A remake of Mario Kart 64&#39;s Blockfort, featuring custom textures.&lt;/i&gt;&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/blockfort.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;An introductory level of the aforementioned HL2 mod that was never finished.&lt;/i&gt;&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/combinemod.jpg&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;~ Let&#39;s do the time warp again ~&lt;/i&gt;&lt;/p&gt;
 &lt;p style=&quot;text-indent: 2em&quot;&gt;The year is 2015. Corona is only just a beer. I had recently graduated college a few years prior with a &quot;real&quot; degree and landed a &quot;real&quot; job doing &quot;real&quot; work. I had also dropped any kind of game dev or level design as a hobby. And I was honestly pretty miserable. A friend of mine, Jonathan Schrack, introduced me to a local Unity usergroup in town. I&#39;m grateful glad he did, because it woke up this long dormant love I used to have for making stuff. I started showing up to the meetups, I learned the basics of the Unity engine, I learned how to script gameplay with C#, and I participated in &lt;i&gt;a lot&lt;/i&gt; of game jams. I even learned how to use Blender to make custom models and characters somewhat proficiently. One of my jam games even won &lt;a href=&quot;https://ldjam.com/events/ludum-dare/41/modern-art-critic-hero&quot; target=&quot;blank&quot;&gt;4th place for Humor&lt;/a&gt; in Ludum Dare 41!
 &lt;/p&gt;&lt;p style=&quot;text-indent: 2em&quot;&gt;One year later, Jonathan brought me onto a small team working on a VR beat-em-up called &lt;i&gt;Kung Fu: Shadow Fist&lt;/i&gt;. Think &lt;i&gt;Streets of Rage&lt;/i&gt;, but in VR. My job was to design levels for the game (shocking, I know). The mechanics of KFSF were pretty simple; You could teleport to predetermined locations to navigate through the world, throw punches with the motion controllers, and use a charged ability called Shadow Strike, which would slow down time and cause your punches to do extra damage. The vertical slice was pretty great, considering the dev team was a fairly ragtag bunch of three part-time developers.&lt;/p&gt;
 &lt;p style=&quot;text-indent: 2em&quot;&gt;Adapting the level design of those classic beat-em-ups ended up being pretty challenging. The levels in those games were linear, usually forcing the player to move left-to-right across the screen. This shifted my focus to creating memorable events instead of creating more elaborate, open designs. For example, &quot;The Subway Level&quot; didn&#39;t take place &lt;i&gt;just&lt;/i&gt; in a subway. The player started the city streets, beating up gang members until they arrived at a bar. Inside the bar were more thugs. Taking them out rewarded the player with a bathroom gag, in which one lone bonehead would exit the restroom in a, hopefully, amusing display of Vincent-Vega-style bad timing. After the bar, the player would finally make their way to the subway, and board a train. This resulted in a climactic battle between the player and the rival gang, all while the train was en route to its destination.&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;An early blockout of &quot;The Subway Level&quot; featured in &lt;i&gt;Kung Fu: Shadow Fist&#39;s vertical slice.&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/kfsf.jpg&quot; class=&quot;center&quot;&gt;&lt;/i&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;A top-down view of the entire vertical slice level.&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/kfsf_topdown.png&quot; class=&quot;center&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;A simple vista featuring lighting from police sirens and placeholder art.&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/kfsf_police.gif&quot; class=&quot;center&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;A shot of a city street, featuring an extremely punchable NPC. Now that&#39;s a face only a mother could love.&lt;/i&gt;&lt;br&gt;&lt;img src=&quot;https://jeplmr.com/img/kfsf_street.png&quot; class=&quot;center&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;An early blockout of &quot;The Subway Level&quot; featured in &lt;i&gt;Kung Fu: Shadow Fist&#39;s vertical slice.&lt;/i&gt;&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/kfsf.jpg&quot; class=&quot;center&quot; /&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;A top-down view of the entire vertical slice level.&lt;/i&gt;&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/kfsf_topdown.png&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;A simple vista featuring lighting from police sirens and placeholder art.&lt;/i&gt;&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/kfsf_police.gif&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;A shot of a city street, featuring an extremely punchable NPC. Now that&#39;s a face only a mother could love.&lt;/i&gt;&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/kfsf_street.png&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;&quot;The Subway Level&quot; train ride. I put together this simple illusion where the tunnel moves around an immobile train car.&lt;/i&gt;&lt;br&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;i&gt;&quot;The Subway Level&quot; train ride. I put together this simple illusion where the tunnel moves around an immobile train car.&lt;/i&gt;&lt;br /&gt;
 &lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/M-fQaoTNNPk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;p style=&quot;text-indent: 2em&quot;&gt;Making this level for KFSF was really fun. But there was something about the level I just couldn&#39;t get into. I never really found an identity for it. A feel. I never got into a flow state while working on it. And I think it shows. While I&#39;m really proud of the various events I put together in the level, the space itself feels very.. uninspired. It&#39;s basically a long hallway that extends from the city streets to the end of the train station. There are no branching paths, the player isn&#39;t presented with interesting choices, and the gameplay gets repetitive very quickly. Don&#39;t get me wrong, I don&#39;t think the level was that bad. But it certainly wasn&#39;t that good, either. I will say that it was a competent vertical slice demo, and looking back at it, I&#39;m proud as hell at what I helped build.&lt;/p&gt;&lt;p&gt;
 &lt;/p&gt;&lt;p style=&quot;text-indent: 2em&quot;&gt;Do you ever find yourself reading something and it reaches out and slaps you across the face? Well, I did. I was reading through &lt;i&gt;101 Things I learned in Architecture School&lt;/i&gt; at the recommendation of, well, a whole bunch of people. And this page stuck with me:&lt;/p&gt;
 &lt;p style=&quot;background-color: #000000; font-family: serif&quot;&gt;
-&lt;b&gt;Architecture begins with an idea.&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Architecture begins with an idea.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
 Good design solutions are not merely physically interesting but are driven by underlying ideas. An idea is a specific mental structre by which we organize, understand, and give meaning to external experiences and information. Without underlying ideas informing their buildings, architects are merely space planners. Space planning with decoration applied to &#39;dress it up&#39; is not architecture; architecture resides in the DNA of a building, in an embedded sensibility that infuses its whole.
-&lt;br&gt;&lt;br&gt;
-101 Things I learned in Architecture School&lt;br&gt;Matthew Frederick&lt;/p&gt;
+&lt;br /&gt;&lt;br /&gt;
+101 Things I learned in Architecture School&lt;br /&gt;Matthew Frederick&lt;/p&gt;
 &lt;p style=&quot;text-indent: 2em&quot;&gt;This one page managed to sum up a bunch of things I was unknowingly doing wrong. I would too quickly jump into making my levels look like the places I wanted them to be, instead of building gameplay spaces that take advantage of a game&#39;s mechanics. I want to say I picked this habit up in my Garry&#39;s Mod days. Because that mod was so aimless and sandboxy, there were no gameplay mechanics to undertsand, no goals to reach. Which isn&#39;t a bad thing, it&#39;s just a nature-of-the-beast thing when it comes to gmod. Because I was always so focused on &lt;i&gt;how&lt;/i&gt; I built a wall, I never practiced building focused gameplay spaces; i.e., I never thought about if the wall should even be there in the first place.&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://jeplmr.com/img/scottpilgrim.gif&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://jeplmr.com/img/scottpilgrim.gif&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;In part 2, I&#39;ll talk about what I&#39;m working on currently, and how I&#39;ve been working to improve my level design skills in the last couple years.&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;To be continued...&lt;/i&gt;&lt;/p&gt;</content>
 	</entry>
@@ -429,17 +429,17 @@ Good design solutions are not merely physically interesting but are driven by un
 	<entry>
 		<title>Ludum  Dare 41 - Modern Art Critic Hero</title>
 		<link href="https://jeplmr.com/posts/mach/"/>
-		<updated>2020-12-23T00:00:00+00:00</updated>
+		<updated>2020-12-23T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/mach/</id>
 		<content type="html">&lt;p&gt;
-&lt;a href=&quot;https://jeplmr.itch.io/modern-art-critic-hero&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;https://jeplmr.com/img/MACH.png&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://jeplmr.itch.io/modern-art-critic-hero&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;https://jeplmr.com/img/MACH.png&quot; /&gt;&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&quot;https://jeplmr.itch.io/modern-art-critic-hero&quot; target=&quot;blank&quot;&gt;Modern Art Critic Hero&lt;/a&gt; is a microgame based on the theme &#39;Combine Two Incompatible Genres&#39;. Play as &lt;i&gt;The Critic&lt;/i&gt; on their personal journey to critique as much modern art as they can. Explore the museum and contemplate life, existence, and the exhibits.&lt;/p&gt;
 &lt;p&gt;
 Modern Art Critic Hero won &lt;a href=&quot;https://ldjam.com/events/ludum-dare/41/modern-art-critic-hero&quot; target=&quot;blank&quot;&gt;4th place for Humor&lt;/a&gt; in Ludum Dare 41. 
 
-&lt;/p&gt;&lt;p style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;Post-jam Developer Commentary&lt;/i&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align: center&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Post-jam Developer Commentary&lt;/i&gt;&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;
 &lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/EMBMOer_5Ug&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
 	</entry>
@@ -447,20 +447,20 @@ Modern Art Critic Hero won &lt;a href=&quot;https://ldjam.com/events/ludum-dare/
 	<entry>
 		<title>Global Game Jam 2018 - The Witching Hour</title>
 		<link href="https://jeplmr.com/posts/twh/"/>
-		<updated>2020-12-22T00:00:00+00:00</updated>
+		<updated>2020-12-22T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/twh/</id>
 		<content type="html">&lt;p&gt;
 &lt;a href=&quot;https://memphis-game-developers.itch.io/the-witching-hour&quot; target=&quot;blank&quot;&gt;The Witching Hour&lt;/a&gt; is a horror microgame created in 48 hours at Global Game Jam 2018. The jam theme was Transmission. The player must keep possessed appliances quiet, or suffer the wrath of an evil spirit that haunts the house.
 
-&lt;div class=&quot;container&quot;&gt;
+&lt;/p&gt;&lt;div class=&quot;container&quot;&gt;
 &lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/KOhJLNkzi2s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;
-&lt;br&gt;&lt;br&gt;&lt;/p&gt;</content>
+&lt;br /&gt;&lt;br /&gt;</content>
 	</entry>
 	
 	<entry>
 		<title>Aaand, we&#39;re live!</title>
 		<link href="https://jeplmr.com/posts/first/"/>
-		<updated>2020-11-24T00:00:00+00:00</updated>
+		<updated>2020-11-24T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/first/</id>
 		<content type="html">&lt;p&gt;I decided to rework my portfolio/blog from scratch. I was running static HTML/CSS on an Amazon S3 bucket, and finally decided it was high time to do things &quot;the right way&quot;. This site utilizes 11ty as a statc content generator, and I&#39;m using GitHub and TravisCI for version control, hosting, and CI/CD. Oh, and Route53 for DNS.&lt;/p&gt;
 &lt;p&gt;Anyway, please excuse the dust around here. I haven&#39;t stretched my web design skills in a hot minute. I&#39;ve been laser focused on Unity Development and Level Design lately. My plan is to get all my content pushed up here, and then I&#39;ll do another pass on the visuals and layout. Until then, enjoy the blockout background!&lt;/p&gt;</content>
