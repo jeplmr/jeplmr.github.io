@@ -1,5 +1,5 @@
 ---
-title: Ludum Dare 43 - Blight Tower
+title: Blight Tower - Ludum Dare 43
 description: Ludum Dare 43, Compo
 date: 2021-01-17
 tags:

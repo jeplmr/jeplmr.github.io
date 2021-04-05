@@ -1,5 +1,5 @@
 ---
-title: cs_gallery - Counter-Strike Global Offensive
+title: Cs_gallery Blockout - Counter-Strike Global Offensive
 description: Blockout for an Art Museum 
 date: 2021-01-19
 tags:

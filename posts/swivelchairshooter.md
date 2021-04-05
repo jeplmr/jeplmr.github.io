@@ -3,7 +3,6 @@ title: Swivel Chair Shooter - Prototype, Oculus Go
 description: Totally not COD Zombies
 date: 2021-01-19
 tags:
-  - Portfolio
   - Unity
   - AR/VR
   - Shaders

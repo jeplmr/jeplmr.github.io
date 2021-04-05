@@ -1,5 +1,5 @@
 ---
-title: Nostalgic Level Up - Super Mario Bros. World 1-1
+title: Super Mario Bros. World 1-1 - Mapcore
 description: Please don't sue me, Nintendo.
 date: 2021-01-19
 tags:
