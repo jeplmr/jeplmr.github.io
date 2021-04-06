@@ -112,6 +112,7 @@ main();
   &lt;li&gt;Prototyped the VR player locomotion system utilizing the OVR API&lt;/li&gt;
   &lt;li&gt;Modeled, tuxtured, and rigged both player characters (Shout out to Kathryn Hicks who created the VR hands)&lt;/li&gt;
   &lt;li&gt;Utilized the Profiler and Frame Debugger to optimize the demo scenes, reducing draw calls by as much as 75%&lt;/li&gt;
+  &lt;li&gt;Performed Q.A. work, ensuring demo met all Oculus VRCs&lt;/li&gt;
   &lt;li&gt;Created and fine-tuned the overall look of the demo&lt;/li&gt;
   &lt;li&gt;Wrote a custom, &quot;cinematic&quot; camera, featuring film-industry-standard movement control (dolly, truck, etc)&lt;/li&gt;
   &lt;li&gt;Recorded gameplay footage and cut the Demo Day trailer&lt;/li&gt;
@@ -125,7 +126,8 @@ main();
 &lt;p style=&quot;text-align: center&quot;&gt;&lt;br /&gt;&lt;i&gt;Early prototype Mend&lt;/i&gt;&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/bhNgvo8LJxM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;p style=&quot;text-align: center&quot;&gt;&lt;br /&gt;&lt;i&gt;An early playtest - still getting a feel for the game&lt;/i&gt;&lt;/p&gt;
-&lt;div class=&quot;container&quot;&gt;&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/OvikB0OIZwI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
+&lt;div class=&quot;container&quot;&gt;&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/OvikB0OIZwI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;
+</content>
 	</entry>
 	
 	<entry>
