@@ -23,6 +23,7 @@ layout: layouts/post.njk
   <li>Prototyped the VR player locomotion system utilizing the OVR API</li>
   <li>Modeled, tuxtured, and rigged both player characters (Shout out to Kathryn Hicks who created the VR hands)</li>
   <li>Utilized the Profiler and Frame Debugger to optimize the demo scenes, reducing draw calls by as much as 75%</li>
+  <li>Performed Q.A. work, ensuring demo met all Oculus VRCs</li>
   <li>Created and fine-tuned the overall look of the demo</li>
   <li>Wrote a custom, "cinematic" camera, featuring film-industry-standard movement control (dolly, truck, etc)</li>
   <li>Recorded gameplay footage and cut the Demo Day trailer</li>
