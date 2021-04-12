@@ -3,24 +3,38 @@
   <head>
     <link rel="icon" href="/img/hammer_logo.png">
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Tagged “Tools”</title>
     <meta name="description" content="Justin Palmer - Portfolio and Blog for all things Game Dev and Level Design. Valve, plz dont sue me for using the Hammer logo as my favicon.">
     <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Justin Palmer">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Justin Palmer">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet"> 
   </head>
   <body>
-    <header>
-      <h1 class="home"><a href="/">Justin Palmer</a></h1>
-      <ul class="nav">
-        <li class="nav-item"><a href="/">Home</a></li>
-        <li class="nav-item"><a href="/about/">About Me</a></li>
-      <li class="nav-item"><a href="/tags/Portfolio/">Portfolio</a></li>
-      <li class="nav-item"><a href="/tags/blog/">Blog</a></li>
-      </ul>
-    </header>
 
+<div class="w3-sidebar w3-bar-block w3-collapse w3-card w3-animate-left" style="width:300px;" id="mySidebar">
+  <button class="w3-bar-item w3-button w3-large w3-hide-large" onclick="w3_close()">Close &times;</button>
+  <div class="left-justify">
+    <p><b><a href="https://jeplmr.com">Justin Palmer</a></b></p>
+    <a href="https://jeplmr.com" class="w3-bar-item w3-button">Home</a>
+    <a href="https://jeplmr.com/about" class="w3-bar-item w3-button">About Me</a>
+    <a href="https://docs.google.com/document/d/1igctlmz068D6D6XzigU6ADcYaq9VeXILkh8oIBlhztc/edit?usp=sharing" target="blank" class="w3-bar-item w3-button">Resumé</a>
+    <a href="/tags/blog/" class="w3-bar-item w3-button">Blog</a>
+    </br>
+    <a href="https://www.linkedin.com/in/justin-e-palmer/" target="blank"><i class="fab fa-linkedin" style="font-size:24px"></i></a>
+     <a href="https://github.com/jeplmr" target="blank"><i class="fab fa-github" style="font-size:24px"></i></a>
+     <a href="https://twitter.com/jeplmr" target="blank"><i class="fab fa-twitter" style="font-size:24px"></i></a>
+    <a href="https://jeplmr.itch.io" target="blank"><i class="fab fa-itch-io" style="font-size:24px"></i></a>
+  </div>
+</div>
+
+<div class="w3-main" style="margin-left:300px">
+  <div>
+    <button class="w3-button w3-xlarge w3-hide-large" onclick="w3_open()">&#9776;</button>
     <main class="tmpl-home">
       <h1>Tagged “Tools”</h1>
 
@@ -50,10 +64,39 @@
 
 <p>See <a href="/tags/">all tags</a>.</p>
 
-    </main>
 
-    <footer></footer>
+
+    </main>
+  </div>
+</div>
+
+<footer></footer>
+
+<script>
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+}
+
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+}
+
+
+</script> 
 
     <!-- Current page: /tags/Tools/ -->
   </body>
+
+  <!--  <header>
+    <h1 class="home"><a href="/">Justin Palmer</a></h1>
+    <ul class="nav">
+      <li class="nav-item"><a href="/">Home</a></li>
+      <li class="nav-item"><a href="/about/">About Me</a></li>
+    <li class="nav-item"><a href="/tags/Portfolio/">Portfolio</a></li>
+    <li class="nav-item"><a href="/tags/blog/">Blog</a></li>
+    </ul>
+  </header>
+
+  -->
+
 </html>

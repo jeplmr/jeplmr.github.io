@@ -9,6 +9,12 @@
     "url": "https://jeplmr.com/about-me/"
   },
   "items": [{
+      "id": "https://jeplmr.com/posts/books/",
+      "url": "https://jeplmr.com/posts/books/",
+      "title": "Reading List",
+      "content_html": "<p>2021</p>\n<p>Clean Code<br>\nDesign Patterns<br>\nTheory of Fun<br>\nArt of Game Design</p>\n<p>2020</p>\n<p>The Design of Everyday Things<br>\n101 Things I Learned in Architecture School</p>\n<p>2019</p>\n<p>Accessible Player Experiences (APX)</p>\n",
+      "date_published": "2021-04-12T00:00:00Z"
+    },{
       "id": "https://jeplmr.com/posts/marsPhotosphere/",
       "url": "https://jeplmr.com/posts/marsPhotosphere/",
       "title": "Perseverance Rover Photosphere",

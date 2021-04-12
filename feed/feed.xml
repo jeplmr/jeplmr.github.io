@@ -5,12 +5,30 @@
 	
 	<link href="https://jeplmr.com/feed/feed.xml" rel="self"/>
 	<link href="https://jeplmr.com"/>
-	<updated>2021-02-23T00:00:00Z</updated>
+	<updated>2021-04-12T00:00:00Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Justin Palmer</name>
 		<email>jeplmr@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Reading List</title>
+		<link href="https://jeplmr.com/posts/books/"/>
+		<updated>2021-04-12T00:00:00Z</updated>
+		<id>https://jeplmr.com/posts/books/</id>
+		<content type="html">&lt;p&gt;2021&lt;/p&gt;
+&lt;p&gt;Clean Code&lt;br /&gt;
+Design Patterns&lt;br /&gt;
+Theory of Fun&lt;br /&gt;
+Art of Game Design&lt;/p&gt;
+&lt;p&gt;2020&lt;/p&gt;
+&lt;p&gt;The Design of Everyday Things&lt;br /&gt;
+101 Things I Learned in Architecture School&lt;/p&gt;
+&lt;p&gt;2019&lt;/p&gt;
+&lt;p&gt;Accessible Player Experiences (APX)&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Perseverance Rover Photosphere</title>
