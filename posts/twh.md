@@ -1,18 +1,22 @@
 ---
-title: The Witching Hour - Global Game Jam 2018
-description: Global Game Jam 2018
-date: 2020-12-22
+title: Snow - Global Game Jam 2021
+description: Global Game Jam 2021
+date: 2021-04-17
 tags:
-  - Portfolio
+  - Shaders
   - Game Jam
   - Unity
   - posts
 layout: layouts/post.njk
 ---
 <p>
-<a href="https://memphis-game-developers.itch.io/the-witching-hour" target="blank">The Witching Hour</a> is a horror microgame created in 48 hours at Global Game Jam 2018. The jam theme was Transmission. The player must keep possessed appliances quiet, or suffer the wrath of an evil spirit that haunts the house.
-</P>
+<a href="https://jeplmr.itch.io/snow" target="blank">Snow</a> was created as an excuse for me to improve my shader skills. Stuff I learned while making Snow: 
+<ul>Reading/Writing data to a splatmap texture; the players location and path taken.</ul>
+<ul>Using that data to manipulate verticies on a mesh; in this case, pushing down points on a mesh to leave tracks in the "snow".</ul>
+<ul>Application of random noise to splatmap to fake snow accumulation in depressed areas.</ul>
+<ul>Dynamic tesselation driven by the Camera's distance from the tesselated mesh.</ul>
+</p>
 
 <div class="container">
-<p style="text-align: center"><iframe width="800" height="600" src="https://www.youtube.com/embed/KOhJLNkzi2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></p></div>
+<p style="text-align: center"><iframe width="800" height="600" src="https://www.youtube.com/embed/uoThdh3hFT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></p></div>
 </br></br>
