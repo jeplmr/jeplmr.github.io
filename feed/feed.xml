@@ -18,15 +18,17 @@
 		<updated>2021-04-12T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/books/</id>
 		<content type="html">&lt;p&gt;2021&lt;/p&gt;
-&lt;p&gt;Clean Code&lt;br /&gt;
-Design Patterns&lt;br /&gt;
-Theory of Fun&lt;br /&gt;
-Art of Game Design&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/&quot; target=&quot;blank&quot;&gt;Clean Code&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/&quot; target=&quot;blank&quot;&gt;Design Patterns&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/&quot; target=&quot;blank&quot;&gt;Theory of Fun&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.amazon.com/Art-Game-Design-Lenses-Third/dp/1138632058/&quot; target=&quot;blank&quot;&gt;Art of Game Design (Book)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;2020&lt;/p&gt;
-&lt;p&gt;The Design of Everyday Things&lt;br /&gt;
-101 Things I Learned in Architecture School&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654&quot; target=&quot;blank&quot;&gt;The Design of Everyday Things&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.amazon.com/101-Things-Learned-Architecture-School/dp/0262062666/&quot; target=&quot;blank&quot;&gt;101 Things I Learned in Architecture School&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;2019&lt;/p&gt;
-&lt;p&gt;Accessible Player Experiences (APX)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://accessible.games/accessible-player-experiences/&quot; target=&quot;blank&quot;&gt;Accessible Player Experiences (APX)&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.amazon.com/Art-Game-Design-Lenses-Second/dp/0692288872/&quot; target=&quot;blank&quot;&gt;Art of Game Design (Flashcards)&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://gameprogrammingpatterns.com/contents.html&quot; target=&quot;blank&quot;&gt;Game Programming Patters&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -123,7 +125,7 @@ main();
 		<content type="html">&lt;p style=&quot;text-align: center&quot;&gt;&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/Mend_wave.gif&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;In late 2019 I was invited to attend &lt;a href=&quot;https://developer.oculus.com/launch-pad/&quot; target=&quot;blank&quot;&gt;Oculus Launch Pad&lt;/a&gt;, an XR bootcamp, along with 99 other aspiring developers. We spent the weekend talking design, Unity (sometimes Unreal), and of course, VR. We were also challened to build a vertical slice in just three months. When I got home, I immediately started brainstorming and throwing ideas together in Unity. After a few failed prototypes, I landed on an asymmetric, cooperative two-player experience, which became Mend.&lt;/p&gt;
 &lt;p&gt;The asymmetric aspect of Mend is what hooked me on the idea, and pushed me to complete the demo. Two players need to work together to solve puzzles and explore the game world, all while leveraging their own unique perspectives. The VR player is a massive, towering chacracter that has the largest view of the gameplay space. The flatscreen player is a more traditional 3rd person character, allowing them to more easily focus on the details and see things up close. I elaborate more on the core design over on the &lt;a href=&quot;https://developer.oculus.com/blog/oculus-launch-pad-grad-justin-palmer-shares-the-creative-process-behind-mend/&quot;&gt;Oculus Developer Blog&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;In addition to leading the team, I also...&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;As the Lead Developer, I...&lt;/p&gt;&lt;ul&gt;
   &lt;li&gt;Designed and implemented the core gameplay (Unity, C#, etc)&lt;/li&gt;
   &lt;li&gt;Completed the demo levels all the way from blockmesh to final art (ProBuilder, Blender)&lt;/li&gt;
   &lt;li&gt;Scripted gameplay sequences with a custom-built events system&lt;/li&gt;
@@ -132,6 +134,7 @@ main();
   &lt;li&gt;Utilized the Profiler and Frame Debugger to optimize the demo scenes, reducing draw calls by as much as 75%&lt;/li&gt;
   &lt;li&gt;Performed Q.A. work, ensuring demo met all Oculus VRCs&lt;/li&gt;
   &lt;li&gt;Created and fine-tuned the overall look of the demo&lt;/li&gt;
+  &lt;li&gt;Performed all audio engineering, utilizing FMOD Studio and its Unity API&lt;/li&gt;
   &lt;li&gt;Wrote a custom, &quot;cinematic&quot; camera, featuring film-industry-standard movement control (dolly, truck, etc)&lt;/li&gt;
   &lt;li&gt;Recorded gameplay footage and cut the Demo Day trailer&lt;/li&gt;
   &lt;li&gt;Wrote all supporting documentation, including the game design and pitch documents&lt;/li&gt;
