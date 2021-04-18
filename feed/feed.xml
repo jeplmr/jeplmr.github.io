@@ -14,11 +14,11 @@
 	
 	<entry>
 		<title>Snow - Global Game Jam 2021</title>
-		<link href="https://jeplmr.com/posts/twh/"/>
+		<link href="https://jeplmr.com/posts/snow/"/>
 		<updated>2021-04-17T00:00:00Z</updated>
-		<id>https://jeplmr.com/posts/twh/</id>
+		<id>https://jeplmr.com/posts/snow/</id>
 		<content type="html">&lt;p&gt;
-&lt;a href=&quot;https://jeplmr.itch.io/snow&quot; target=&quot;blank&quot;&gt;Snow&lt;/a&gt; was created as an excuse for me to improve my shader skills. Stuff I learned while making Snow: 
+&lt;a href=&quot;https://jeplmr.itch.io/snow&quot; target=&quot;blank&quot;&gt;Snow&lt;/a&gt; was created as an excuse for me to improve my shader skills. Music was created by the talented &lt;a href=&quot;https://www.jmarlinmusic.com/&quot; target=&quot;blank&quot;&gt;Jonathan Marlin&lt;/a&gt;. Stuff I learned while making Snow: 
 &lt;/p&gt;&lt;ul&gt;Reading/Writing data to a splatmap texture; the players location and path taken.&lt;/ul&gt;
 &lt;ul&gt;Using that data to manipulate verticies on a mesh; in this case, pushing down points on a mesh to leave tracks in the &quot;snow&quot;.&lt;/ul&gt;
 &lt;ul&gt;Application of random noise to splatmap to fake snow accumulation in depressed areas.&lt;/ul&gt;
@@ -340,9 +340,9 @@ Modern Art Critic Hero won &lt;a href=&quot;https://ldjam.com/events/ludum-dare/
 	
 	<entry>
 		<title>The Witching Hour - Global Game Jam 2018</title>
-		<link href="https://jeplmr.com/posts/snow/"/>
+		<link href="https://jeplmr.com/posts/twh/"/>
 		<updated>2020-12-22T00:00:00Z</updated>
-		<id>https://jeplmr.com/posts/snow/</id>
+		<id>https://jeplmr.com/posts/twh/</id>
 		<content type="html">&lt;p&gt;
 &lt;a href=&quot;https://memphis-game-developers.itch.io/the-witching-hour&quot; target=&quot;blank&quot;&gt;The Witching Hour&lt;/a&gt; is a horror microgame created in 48 hours at Global Game Jam 2018. The jam theme was Transmission. The player must keep possessed appliances quiet, or suffer the wrath of an evil spirit that haunts the house.
 
