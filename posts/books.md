@@ -4,6 +4,7 @@ description: turn them pages
 date: 2021-04-12
 tags:
   - books
+  - blog
   - posts
 layout: layouts/post.njk
 ---
