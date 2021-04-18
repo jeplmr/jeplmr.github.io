@@ -26,3 +26,7 @@ layout: layouts/post.njk
 <a href="https://accessible.games/accessible-player-experiences/" target="blank">Accessible Player Experiences (APX)</a>
 <a href="https://www.amazon.com/Art-Game-Design-Lenses-Second/dp/0692288872/" target="blank">Art of Game Design (Flashcards)</a>
 <a href="https://gameprogrammingpatterns.com/contents.html" target="blank">Game Programming Patterns</a>
+
+201X (I don't remember when I read these, but they're great titles!)
+
+<a href="https://www.amazon.com/Unity-5-x-Shaders-Effects-Cookbook-ebook/dp/B019ZNWJ5G/" target="blank">Unity Shader Cookbook</a>
