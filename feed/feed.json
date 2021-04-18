@@ -9,6 +9,12 @@
     "url": "https://jeplmr.com/about-me/"
   },
   "items": [{
+      "id": "https://jeplmr.com/posts/twh/",
+      "url": "https://jeplmr.com/posts/twh/",
+      "title": "Snow - Global Game Jam 2021",
+      "content_html": "<p>\n<a href=\"https://jeplmr.itch.io/snow\" target=\"blank\">Snow</a> was created as an excuse for me to improve my shader skills. Stuff I learned while making Snow: \n<ul>Reading/Writing data to a splatmap texture; the players location and path taken.</ul>\n<ul>Using that data to manipulate verticies on a mesh; in this case, pushing down points on a mesh to leave tracks in the \"snow\".</ul>\n<ul>Application of random noise to splatmap to fake snow accumulation in depressed areas.</ul>\n<ul>Dynamic tesselation driven by the Camera's distance from the tesselated mesh.</ul>\n</p>\n<div class=\"container\">\n<p style=\"text-align: center\"><iframe width=\"800\" height=\"600\" src=\"https://www.youtube.com/embed/uoThdh3hFT4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen class=\"video\"></iframe></p></div>\n</br></br>",
+      "date_published": "2021-04-17T00:00:00Z"
+    },{
       "id": "https://jeplmr.com/posts/books/",
       "url": "https://jeplmr.com/posts/books/",
       "title": "Reading List",
@@ -99,8 +105,8 @@
       "content_html": "<p>\n<a href=\"https://jeplmr.itch.io/modern-art-critic-hero\" target=\"blank\"><img src=\"/img/MACH.png\"></a>\n</p>\n<p>\n<a href=\"https://jeplmr.itch.io/modern-art-critic-hero\" target=\"blank\">Modern Art Critic Hero</a> is a microgame based on the theme 'Combine Two Incompatible Genres'. Play as <i>The Critic</i> on their personal journey to critique as much modern art as they can. Explore the museum and contemplate life, existence, and the exhibits.</p>\n<p>\nModern Art Critic Hero won <a href=\"https://ldjam.com/events/ludum-dare/41/modern-art-critic-hero\" target=\"blank\">4th place for Humor</a> in Ludum Dare 41. \n</P>\n<p style=\"text-align: center\"></br></br><i>Post-jam Developer Commentary</i></p>\n<div class=\"container\">\n<p style=\"text-align: center\"><iframe width=\"800\" height=\"600\" src=\"https://www.youtube.com/embed/EMBMOer_5Ug\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen class=\"video\"></iframe></p></div>",
       "date_published": "2020-12-23T00:00:00Z"
     },{
-      "id": "https://jeplmr.com/posts/twh/",
-      "url": "https://jeplmr.com/posts/twh/",
+      "id": "https://jeplmr.com/posts/snow/",
+      "url": "https://jeplmr.com/posts/snow/",
       "title": "The Witching Hour - Global Game Jam 2018",
       "content_html": "<p>\n<a href=\"https://memphis-game-developers.itch.io/the-witching-hour\" target=\"blank\">The Witching Hour</a> is a horror microgame created in 48 hours at Global Game Jam 2018. The jam theme was Transmission. The player must keep possessed appliances quiet, or suffer the wrath of an evil spirit that haunts the house.\n</P>\n<div class=\"container\">\n<p style=\"text-align: center\"><iframe width=\"800\" height=\"600\" src=\"https://www.youtube.com/embed/KOhJLNkzi2s\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen class=\"video\"></iframe></p></div>\n</br></br>",
       "date_published": "2020-12-22T00:00:00Z"
