@@ -16,7 +16,7 @@ layout: layouts/post.njk
 
 <p>The asymmetric aspect of Mend is what hooked me on the idea, and pushed me to complete the demo. Two players need to work together to solve puzzles and explore the game world, all while leveraging their own unique perspectives. The VR player is a massive, towering chacracter that has the largest view of the gameplay space. The flatscreen player is a more traditional 3rd person character, allowing them to more easily focus on the details and see things up close. I elaborate more on the core design over on the <a href="https://developer.oculus.com/blog/oculus-launch-pad-grad-justin-palmer-shares-the-creative-process-behind-mend/">Oculus Developer Blog</a>.</p>
 
-<p>In addition to leading the team, I also...<ul>
+<p>As the Lead Developer, I...<ul>
   <li>Designed and implemented the core gameplay (Unity, C#, etc)</li>
   <li>Completed the demo levels all the way from blockmesh to final art (ProBuilder, Blender)</li>
   <li>Scripted gameplay sequences with a custom-built events system</li>
@@ -25,6 +25,7 @@ layout: layouts/post.njk
   <li>Utilized the Profiler and Frame Debugger to optimize the demo scenes, reducing draw calls by as much as 75%</li>
   <li>Performed Q.A. work, ensuring demo met all Oculus VRCs</li>
   <li>Created and fine-tuned the overall look of the demo</li>
+  <li>Performed all audio engineering, utilizing FMOD Studio and its Unity API</li>
   <li>Wrote a custom, "cinematic" camera, featuring film-industry-standard movement control (dolly, truck, etc)</li>
   <li>Recorded gameplay footage and cut the Demo Day trailer</li>
   <li>Wrote all supporting documentation, including the game design and pitch documents</li>
