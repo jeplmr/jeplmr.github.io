@@ -25,4 +25,4 @@ layout: layouts/post.njk
 
 <a href="https://accessible.games/accessible-player-experiences/" target="blank">Accessible Player Experiences (APX)</a>
 <a href="https://www.amazon.com/Art-Game-Design-Lenses-Second/dp/0692288872/" target="blank">Art of Game Design (Flashcards)</a>
-<a href="https://gameprogrammingpatterns.com/contents.html" target="blank">Game Programming Patters</a>
+<a href="https://gameprogrammingpatterns.com/contents.html" target="blank">Game Programming Patterns</a>
