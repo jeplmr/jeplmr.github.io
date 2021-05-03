@@ -5,12 +5,23 @@
 	
 	<link href="https://jeplmr.com/feed/feed.xml" rel="self"/>
 	<link href="https://jeplmr.com"/>
-	<updated>2021-04-18T00:00:00Z</updated>
+	<updated>2021-05-03T00:00:00Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Justin Palmer</name>
 		<email>jeplmr@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Environment Study - Haunted Forest</title>
+		<link href="https://jeplmr.com/posts/es_zombie_road/"/>
+		<updated>2021-05-03T00:00:00Z</updated>
+		<id>https://jeplmr.com/posts/es_zombie_road/</id>
+		<content type="html">&lt;p&gt;This was one of my first Unity projects. I was getting a feel for how to build out more natural looking spaces inside the editor. The scene features lush foliage, natural sound effects, and rocky terrain. I&#39;m a bit of a paranormal junkie, so the overall look and feel of this scene was inspired by a St. Louis urban legend, &quot;zombie road&quot;. You can read more about Zombie Road &lt;a target=&quot;blank&quot; href=&quot;https://www.dangerousroads.org/north-america/usa/4359-zombie-road.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/0KKo77vo_yo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Oculus Launch Pad, Post Mortem - Memphis Game Developers (2020)</title>
@@ -254,7 +265,7 @@ main();
 	</entry>
 	
 	<entry>
-		<title>Environment Study - Memphis Game Developers</title>
+		<title>Environment Study - Office Interior</title>
 		<link href="https://jeplmr.com/posts/environmentstudy/"/>
 		<updated>2021-01-19T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/environmentstudy/</id>

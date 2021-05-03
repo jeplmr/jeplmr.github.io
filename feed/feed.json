@@ -9,6 +9,12 @@
     "url": "https://jeplmr.com/about-me/"
   },
   "items": [{
+      "id": "https://jeplmr.com/posts/es_zombie_road/",
+      "url": "https://jeplmr.com/posts/es_zombie_road/",
+      "title": "Environment Study - Haunted Forest",
+      "content_html": "<p>This was one of my first Unity projects. I was getting a feel for how to build out more natural looking spaces inside the editor. The scene features lush foliage, natural sound effects, and rocky terrain. I'm a bit of a paranormal junkie, so the overall look and feel of this scene was inspired by a St. Louis urban legend, \"zombie road\". You can read more about Zombie Road <a target=\"blank\" href=\"https://www.dangerousroads.org/north-america/usa/4359-zombie-road.html\">here</a>.</p>\n<div class=\"container\">\n<p style=\"text-align: center\"><iframe width=\"800\" height=\"600\" src=\"https://www.youtube.com/embed/0KKo77vo_yo\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen class=\"video\"></iframe></p></div>\n",
+      "date_published": "2021-05-03T00:00:00Z"
+    },{
       "id": "https://jeplmr.com/posts/olpPostMortem/",
       "url": "https://jeplmr.com/posts/olpPostMortem/",
       "title": "Oculus Launch Pad, Post Mortem - Memphis Game Developers (2020)",
@@ -83,7 +89,7 @@
     },{
       "id": "https://jeplmr.com/posts/environmentstudy/",
       "url": "https://jeplmr.com/posts/environmentstudy/",
-      "title": "Environment Study - Memphis Game Developers",
+      "title": "Environment Study - Office Interior",
       "content_html": "<p>Late in December 2018, my local Unity meetup hosted a month-long environment study challenge. The rules were simple: recreate a scene from any photo. <a href=\"https://docs.google.com/presentation/d/1t72S2quB0F73HnqWhIXWOFzrJ5RDRX9qGtP3_yET5P8/edit?usp=sharing\" target=\"blank\">I detail my process here in these slides</a>, but the basic idea is that I took the specifications from the physical camera used to take the reference photo and applied them to the camera settings in Unity. Once I had that, I overlaid the reference photo on top of my scene in Unity and started rebuilding everything from scratch. Please excuse some of the messy geometry in the scene, I was still learning Blender at the time.</p>\n<div class=\"container\">\n<p style=\"text-align: center\"><iframe width=\"800\" height=\"600\" src=\"https://docs.google.com/presentation/d/1t72S2quB0F73HnqWhIXWOFzrJ5RDRX9qGtP3_yET5P8/edit?usp=sharing\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen class=\"video\"></iframe></p></div>",
       "date_published": "2021-01-19T00:00:00Z"
     },{
