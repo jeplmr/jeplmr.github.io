@@ -1,11 +1,12 @@
 ---
-title: Environment Study - Memphis Game Developers
+title: Environment Study - Office Interior
 description: Photo to Unity Workflow Experiment 
 date: 2021-01-19
 tags:
   - Portfolio
   - Unity
   - Blender
+  - Environment Study
   - posts
 layout: layouts/post.njk
 ---
