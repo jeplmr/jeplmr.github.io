@@ -15,5 +15,3 @@ layout: layouts/post.njk
 
 <div class="container">
 <p style="text-align: center"><iframe width="800" height="600" src="https://www.youtube.com/embed/0KKo77vo_yo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></p></div>
-
-
