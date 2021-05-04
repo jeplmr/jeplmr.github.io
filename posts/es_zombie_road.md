@@ -5,8 +5,8 @@ date: 2021-05-03
 tags:
   - Portfolio
   - Unity
-  - Blender
   - Environment Study
+  - Level Design
   - posts
 layout: layouts/post.njk
 ---
