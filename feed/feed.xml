@@ -5,12 +5,47 @@
 	
 	<link href="https://jeplmr.com/feed/feed.xml" rel="self"/>
 	<link href="https://jeplmr.com"/>
-	<updated>2021-05-04T00:00:00Z</updated>
+	<updated>2021-05-25T00:00:00Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Justin Palmer</name>
 		<email>jeplmr@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Adventures in Blender (Hard Surface Modeling)</title>
+		<link href="https://jeplmr.com/posts/blenderAdventures/"/>
+		<updated>2021-05-25T00:00:00Z</updated>
+		<id>https://jeplmr.com/posts/blenderAdventures/</id>
+		<content type="html">&lt;p&gt;Here&#39;s a collection of random pieces I&#39;ve made with Blender, some imported to Unity. All pieces created for use with realtime rendering applications.&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;The Stockpile&lt;br /&gt;An exercise in creating A LOT of performant geometry. Millions of objects rendered in Unity.&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/tp_shortage.png&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;Power socket model with geometry detail baked out to a normal map.&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/socket%20normals.png&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;Power socket brought into Unity. Two polygons with a single normal map for detail.&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/socket%20unity.png&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;Non-textured chair - an exercise in complex, concave shapes.&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/chair.png&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;A bountiful harvest of Blender default cubes.&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/render.png&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;A Question Mark Box from my World 1-1 remake. UV maps not optimized, don&#39;t look at that too closely.&lt;/p&gt;
+&lt;div class=&quot;sketchfab-embed-wrapper&quot;&gt;
+    &lt;iframe title=&quot;A 3D model&quot; width=&quot;1024&quot; height=&quot;768&quot; src=&quot;https://sketchfab.com/models/5fa7e9d6c00046e3ab140d2e338a0e42/embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; vr&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+    &lt;p style=&quot;font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;&quot;&gt;
+        &lt;a href=&quot;https://sketchfab.com/3d-models/delorean-873d009b36a84b06a5e2612c8ecafa9d?utm_medium=embed&amp;utm_source=website&amp;utm_campaign=share-popup&quot; target=&quot;_blank&quot; style=&quot;font-weight: bold; color: #1CAAD9;&quot;&gt;DeLorean&lt;/a&gt;
+        by &lt;a href=&quot;https://sketchfab.com/jeplmr?utm_medium=embed&amp;utm_source=website&amp;utm_campaign=share-popup&quot; target=&quot;_blank&quot; style=&quot;font-weight: bold; color: #1CAAD9;&quot;&gt;jeplmr&lt;/a&gt;
+        on &lt;a href=&quot;https://sketchfab.com/?utm_medium=embed&amp;utm_source=website&amp;utm_campaign=share-popup&quot; target=&quot;_blank&quot; style=&quot;font-weight: bold; color: #1CAAD9;&quot;&gt;Sketchfab&lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;Dice modelled and textured in Blender (Normal, specular, albedo, etc). Imported into Unity. Stick around until the end ;)&lt;/p&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/jb2SsVTwW3E&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>PBR Office Materials - Unity Asset Store</title>
+		<link href="https://jeplmr.com/posts/blenderAdventures%20copy/"/>
+		<updated>2021-05-25T00:00:00Z</updated>
+		<id>https://jeplmr.com/posts/blenderAdventures%20copy/</id>
+		<content type="html">&lt;p&gt;A collection of materials I made back in 2017, based on an office environment. Pack contains various floor, wall, and ceiling materials for use in realtime 3D rendered applications. All materials make use of Unity&#39;s built-in standard shader, which supports PBR (physically based rendering) texture maps.&lt;a href=&quot;https://assetstore.unity.com/packages/2d/textures-materials/pbr-office-materials-98732&quot; target=&quot;blank&quot;&gt;Unity Asset Store&lt;/a&gt;.&lt;/p&gt; 
+&lt;div class=&quot;container&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/iUeikHIGfh8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>Ratchet &amp; Clank - Level Design Diagram</title>
