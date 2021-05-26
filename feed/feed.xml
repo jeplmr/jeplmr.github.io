@@ -13,12 +13,22 @@
 	</author>
 	
 	<entry>
+		<title>PBR Office Materials - Unity Asset Store</title>
+		<link href="https://jeplmr.com/posts/officeMaterials/"/>
+		<updated>2021-05-25T00:00:00Z</updated>
+		<id>https://jeplmr.com/posts/officeMaterials/</id>
+		<content type="html">&lt;p&gt;A collection of materials I made back in 2017, based on an office environment. Pack contains various floor, wall, and ceiling materials for use in realtime 3D rendered applications. All materials make use of Unity&#39;s built-in standard shader, which supports PBR (physically based rendering) texture maps.&lt;a href=&quot;https://assetstore.unity.com/packages/2d/textures-materials/pbr-office-materials-98732&quot; target=&quot;blank&quot;&gt;Unity Asset Store&lt;/a&gt;.&lt;/p&gt; 
+&lt;div class=&quot;container&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/iUeikHIGfh8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
+	</entry>
+	
+	<entry>
 		<title>Adventures in Blender (Hard Surface Modeling)</title>
 		<link href="https://jeplmr.com/posts/blenderAdventures/"/>
 		<updated>2021-05-25T00:00:00Z</updated>
 		<id>https://jeplmr.com/posts/blenderAdventures/</id>
 		<content type="html">&lt;p&gt;Here&#39;s a collection of random pieces I&#39;ve made with Blender, some imported to Unity. All pieces created for use with realtime rendering applications.&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;The Stockpile&lt;br /&gt;An exercise in creating A LOT of performant geometry. Millions of objects rendered in Unity.&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/tp_shortage.png&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;The Stockpile&lt;br /&gt;An exercise in creating A LOT of performant geometry. Millions of objects rendered in Unity.&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/tp_shortage_lowres.png&quot; /&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center&quot;&gt;Power socket model with geometry detail baked out to a normal map.&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/socket%20normals.png&quot; /&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center&quot;&gt;Power socket brought into Unity. Two polygons with a single normal map for detail.&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/socket%20unity.png&quot; /&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center&quot;&gt;Non-textured chair - an exercise in complex, concave shapes.&lt;br /&gt;&lt;img src=&quot;https://jeplmr.com/img/chair.png&quot; /&gt;&lt;/p&gt;
@@ -35,16 +45,6 @@
 &lt;p style=&quot;text-align: center&quot;&gt;Dice modelled and textured in Blender (Normal, specular, albedo, etc). Imported into Unity. Stick around until the end ;)&lt;/p&gt;
 &lt;div class=&quot;container&quot;&gt;
 &lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/jb2SsVTwW3E&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
-	</entry>
-	
-	<entry>
-		<title>PBR Office Materials - Unity Asset Store</title>
-		<link href="https://jeplmr.com/posts/blenderAdventures%20copy/"/>
-		<updated>2021-05-25T00:00:00Z</updated>
-		<id>https://jeplmr.com/posts/blenderAdventures%20copy/</id>
-		<content type="html">&lt;p&gt;A collection of materials I made back in 2017, based on an office environment. Pack contains various floor, wall, and ceiling materials for use in realtime 3D rendered applications. All materials make use of Unity&#39;s built-in standard shader, which supports PBR (physically based rendering) texture maps.&lt;a href=&quot;https://assetstore.unity.com/packages/2d/textures-materials/pbr-office-materials-98732&quot; target=&quot;blank&quot;&gt;Unity Asset Store&lt;/a&gt;.&lt;/p&gt; 
-&lt;div class=&quot;container&quot;&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/iUeikHIGfh8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
 	</entry>
 	
 	<entry>
