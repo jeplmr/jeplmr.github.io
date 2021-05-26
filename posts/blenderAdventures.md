@@ -11,7 +11,7 @@ layout: layouts/post.njk
 
 <p>Here's a collection of random pieces I've made with Blender, some imported to Unity. All pieces created for use with realtime rendering applications.</p>
 
-<p style="text-align: center">The Stockpile<br>An exercise in creating A LOT of performant geometry. Millions of objects rendered in Unity.<br><img src="/img/tp_shortage.png"></p>
+<p style="text-align: center">The Stockpile<br>An exercise in creating A LOT of performant geometry. Millions of objects rendered in Unity.<br><img src="/img/tp_shortage_lowres.png"></p>
 <p style="text-align: center">Power socket model with geometry detail baked out to a normal map.<br><img src="/img/socket normals.png"></p>
 <p style="text-align: center">Power socket brought into Unity. Two polygons with a single normal map for detail.<br><img src="/img/socket unity.png"></p>
 <p style="text-align: center">Non-textured chair - an exercise in complex, concave shapes.<br><img src="/img/chair.png"></p>
