@@ -5,12 +5,26 @@
 	
 	<link href="https://jeplmr.com/feed/feed.xml" rel="self"/>
 	<link href="https://jeplmr.com"/>
-	<updated>2021-05-25T00:00:00Z</updated>
+	<updated>2021-06-01T00:00:00Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Justin Palmer</name>
 		<email>jeplmr@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Subsurface Scattering Shader</title>
+		<link href="https://jeplmr.com/posts/sssShader/"/>
+		<updated>2021-06-01T00:00:00Z</updated>
+		<id>https://jeplmr.com/posts/sssShader/</id>
+		<content type="html">&lt;p&gt;Here&#39;s an old shader I was working on ages ago. I&#39;ve since lost the code because I&#39;m bad at saving things, but I managed to dig up two captures. The first video shows the shader having been applied to three busts in a scene. As the light slowly revolves around the statues, you can see how light &quot;flows&quot; through each object. The second video shows off a more practical application of the shader; a lamp shade. A light is turned off and on from inside the shade, and makes the shade &quot;glow&quot;. The entire effect is faked using custom-baked, grayscale thinkness maps. The lighter parts of the texture map allow more light to glow through, darker areas dim the effect. Huge shout out to Alan Zucconi for his write ups on various shader techniques.&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/BjjJmR12BHA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/tbisNoHhfew&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>PBR Office Materials - Unity Asset Store</title>
